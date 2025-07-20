@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Fedor Gerasimov",
+    "section": "",
+    "text": "I am passionate about teaching Mathematics."
+  },
+  {
+    "objectID": "teaching/index.html#teaching-assistant",
+    "href": "teaching/index.html#teaching-assistant",
+    "title": "Fedor Gerasimov",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nCMOR 360, Introduction to Optimization and Operations research, Rice University, Spring 2025"
+  },
+  {
+    "objectID": "teaching/index.html#mathematics-instructor",
+    "href": "teaching/index.html#mathematics-instructor",
+    "title": "Fedor Gerasimov",
+    "section": "Mathematics Instructor",
+    "text": "Mathematics Instructor\n\nTapia Camp, Summer 2025 Tapia Camp is a summer program for high school students interested in STEM fields."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Fedor Gerasimov",
@@ -35,6 +56,20 @@
     "text": "Publications\nF. Gerasimov, A. Shutov “On An Interesting Circle in a Triangle” (2019)"
   },
   {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Fedor Gerasimov",
+    "section": "",
+    "text": "Except where otherwise noted, all content on this website is licensed under the\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n© 2025 Fedor Gerasimov"
+  },
+  {
+    "objectID": "LICENSE.html#license",
+    "href": "LICENSE.html#license",
+    "title": "Fedor Gerasimov",
+    "section": "",
+    "text": "Except where otherwise noted, all content on this website is licensed under the\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n© 2025 Fedor Gerasimov"
+  },
+  {
     "objectID": "fedor-gerasimov-50.github.io.html",
     "href": "fedor-gerasimov-50.github.io.html",
     "title": "fedor-gerasimov-50.github.io",
@@ -54,40 +89,5 @@
     "title": "Fedor Gerasimov",
     "section": "",
     "text": "To Appear"
-  },
-  {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
-    "title": "Fedor Gerasimov",
-    "section": "",
-    "text": "I am passionate about teaching Mathematics."
-  },
-  {
-    "objectID": "teaching/index.html#teaching-assistant",
-    "href": "teaching/index.html#teaching-assistant",
-    "title": "Fedor Gerasimov",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\n\nCMOR 360, Introduction to Optimization and Operations research, Rice University, Spring 2025"
-  },
-  {
-    "objectID": "teaching/index.html#mathematics-instructor",
-    "href": "teaching/index.html#mathematics-instructor",
-    "title": "Fedor Gerasimov",
-    "section": "Mathematics Instructor",
-    "text": "Mathematics Instructor\n\nTapia Camp, Summer 2025 Tapia Camp is a summer program for high school students interested in STEM fields."
-  },
-  {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
-    "title": "Fedor Gerasimov",
-    "section": "",
-    "text": "Except where otherwise noted, all content on this website is licensed under the\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n© 2025 Fedor Gerasimov"
-  },
-  {
-    "objectID": "LICENSE.html#license",
-    "href": "LICENSE.html#license",
-    "title": "Fedor Gerasimov",
-    "section": "",
-    "text": "Except where otherwise noted, all content on this website is licensed under the\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n© 2025 Fedor Gerasimov"
   }
 ]
