@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Theodore Gerasimov"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "Teaching"
+        href: teaching/index.qmd
+  page-footer:
+    left: "© 2025 Fedya Gerasimov"
+    right: "Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+

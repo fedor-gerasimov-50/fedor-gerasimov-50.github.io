@@ -1,0 +1,18 @@
+---
+title: "CV"
+---
+
+[Download CV PDF](current_CV.pdf)
+
+## Education
+
+- Ph.D. in Mathematics, Rice University (expected 2028)
+- B.S. in Mathematics, Moscow Institute of Physics and Technology (2019)
+
+## Research Interests
+
+Discrete and Convex Geometry
+
+## Publications 
+
+F. Gerasimov, A. Shutov "On An Interesting Circle in a Triangle" (2019)
