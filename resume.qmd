@@ -15,4 +15,4 @@ Discrete and Convex Geometry, Topology, Combinatorics
 
 ## Publications 
 
-F. Gerasimov, A. Shutov "On An Interesting Circle in a Triangle" (2019)
+ [F. Gerasimov, A. Shutov "On An Interesting Circle in a Triangle"](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf) (2019)
