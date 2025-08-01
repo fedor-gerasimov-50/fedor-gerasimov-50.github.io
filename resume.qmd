@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-[Download CV PDF](current_CV.pdf)
+Download CV [PDF](current_CV.pdf)
 
 ## Education
 
@@ -11,7 +11,7 @@ title: "CV"
 
 ## Research Interests
 
-Discrete and Convex Geometry
+Discrete and Convex Geometry, Topology, Combinatorics
 
 ## Publications 
 
