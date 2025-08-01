@@ -2,6 +2,11 @@
 title: "fedor-gerasimov-50.github.io"
 ---
 
-## Quarto
+## Welcome to my website!
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+I'm a rising 3rd year Mathematics PhD student at Rice University. My interests are discrete and convex geometry.
+In 2019, I received my B.S. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology.
+
+## Publications 
+
+F. Gerasimov, A. Shutov "On An Interesting Circle in a Triangle" (2019)
