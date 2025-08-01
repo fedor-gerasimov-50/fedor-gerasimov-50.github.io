@@ -1,1 +1,16 @@
+# Quarto build output
+_site/
 /.quarto/
+
+# Quarto cache (if using Jupyter/Python)
+__pycache__/
+.ipynb_checkpoints/
+
+# Editor/OS files
+.DS_Store
+*.swp
+
+# Node or Python virtual environments (if used)
+node_modules/
+.env/
+venv/

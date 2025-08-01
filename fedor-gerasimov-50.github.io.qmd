@@ -9,4 +9,14 @@ In 2019, I received my B.S. in Applied Mathematics and Computer Science from the
 
 ## Publications 
 
-F. Gerasimov, A. Shutov "On An Interesting Circle in a Triangle" (2019)
+ [F. Gerasimov, A. Shutov "On An Interesting Circle in a Triangle"](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf) (2019)
+
+## Teaching
+
+- CMOR 360, Introduction to Optimization and Operations research, Rice University, Spring 2025
+- Tapia Camp, Mathematics Instructor, Summer 2025
+
+## Contact
+
+**Email:** fg50`<at>`rice.edu
+**LinkedIn:** [Fedor Gerasimov](https://www.linkedin.com/in/theodore-gerasimov-450352238/)
