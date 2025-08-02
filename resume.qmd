@@ -2,12 +2,12 @@
 title: "CV"
 ---
 
-Download CV [PDF](current_CV.pdf)
+Download [CV](current_CV.pdf)
 
 ## Education
 
 - Ph.D. in Mathematics, Rice University (expected 2028)
-- B.S. in Mathematics, Moscow Institute of Physics and Technology (2019 -- 2023)
+- B.S. in Mathematics, Moscow Institute of Physics and Technology (2019 --- 2023)
 
 ## Research Interests
 
