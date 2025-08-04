@@ -1,8 +1,31 @@
-I am passionate about teaching Mathematics.
+I am passionate about teaching Mathematics and, more broadly, helping others discover the beauty and accessibility of math through visual and geometric thinking.  
 
-## Teaching Assistant
-- CMOR 360, Introduction to Optimization and Operations research, Rice University, Spring 2025
+<!-- ## Teaching Experience 
 
-## Mathematics Instructor
-- Tapia Camp, Summer 2025
+- **Tapia Camp**, Mathematics Instructor, Summer 2025
+
     Tapia Camp is a summer program for high school students interested in STEM fields.
+
+- **Introduction to Optimization and Operations Research (CMOR 360)**, Teaching Assistant, Spring 2025
+
+    During the semester, I held office hours, graded assignments, and helped students with the course material.
+
+- **Lyceum "The Second School"**, Competitive Math Coach, September 2021 -- May 2022
+
+    Taught two 2-hour classes per week to high school students to prepare them for Russian national competitions in Mathematics. -->
+
+### Teaching Experience
+
+
+- **Tapia Camp**  
+*Mathematics Instructor — Summer 2025*<br>
+Taught high school students in a summer program focused on STEM enrichment.
+
+- **CMOR 360: Introduction to Optimization and Operations Research**  
+*Teaching Assistant — Spring 2025*<br>
+Held office hours, graded assignments, and provided academic support to students throughout the semester.
+
+- **Lyceum “The Second School”**  
+*Competitive Math Coach — September 2021 to May 2022*<br>
+Led two 2-hour weekly classes preparing high school students for Russian national math competitions.
+
