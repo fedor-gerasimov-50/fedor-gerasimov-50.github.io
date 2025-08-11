@@ -39,14 +39,14 @@
     "href": "resume.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\n\nPh.D. in Mathematics, Rice University (expected 2028)\nB.S. in Mathematics, Moscow Institute of Physics and Technology (2019 — 2023)"
+    "text": "Education\n\nPh.D. in Mathematics, Rice University (expected 2028)\nB.S. in Applied Mathematics and Computer Science, Moscow Institute of Physics and Technology (2019 — 2023)"
   },
   {
     "objectID": "resume.html#research-interests",
     "href": "resume.html#research-interests",
     "title": "CV",
     "section": "Research Interests",
-    "text": "Research Interests\nDiscrete and Convex Geometry, Topology, Combinatorics"
+    "text": "Research Interests\n\nDiscrete and Convex Geometry\nTopology\nOptimization"
   },
   {
     "objectID": "resume.html#publications",
@@ -130,7 +130,7 @@
     "href": "index.html#contact",
     "title": "Fedor (Theodore) Gerasimov",
     "section": "Contact",
-    "text": "Contact\nEmail: fg50&lt;at&gt;rice.edu\nLinkedIn: Fedor Gerasimov\nGitHub: Fedor Gerasimov"
+    "text": "Contact\nEmail: fg50&lt;at&gt;rice&lt;dot&gt;edu\nLinkedIn: Fedor Gerasimov\nGitHub: Fedor Gerasimov"
   },
   {
     "objectID": "teaching/index.html#teaching-experience",
@@ -138,5 +138,12 @@
     "title": "Fedor Gerasimov",
     "section": "Teaching Experience",
     "text": "Teaching Experience\n\nTapia Camp, Mathematics Instructor, Summer 2025\nTapia Camp is a summer program for high school students interested in STEM fields.\nIntroduction to Optimization and Operations Research (CMOR 360), Teaching Assistant, Spring 2025\nDuring the semester, I held office hours, graded assignments, and helped students with the course material.\nLyceum “The Second School”, Competitive Math Coach, September 2021 – May 2022\nTaught two 2-hour classes per week to high school students to prepare them for Russian national competitions in Mathematics.\n\n\nTeaching Experience\nTapia Camp\nMathematics Instructor — Summer 2025 Taught high school students in a summer program focused on STEM enrichment.\nCMOR 360: Introduction to Optimization and Operations Research\nTeaching Assistant — Spring 2025 Held office hours, graded assignments, and provided academic support to students throughout the semester.\nLyceum “The Second School”\nCompetitive Math Coach — September 2021 to May 2022 Led two 2-hour weekly classes preparing high school students for Russian national math competitions."
+  },
+  {
+    "objectID": "resume.html#awards",
+    "href": "resume.html#awards",
+    "title": "CV",
+    "section": "Awards",
+    "text": "Awards\n\nRussian National Olympiad in Matematics, Silver Medal (2019)"
   }
 ]

@@ -2,17 +2,23 @@
 title: "CV"
 ---
 
-Download [CV](current_CV.pdf)
+Download [CV](Fedor_Gerasimov_CV.pdf)
 
 ## Education
 
 - Ph.D. in Mathematics, Rice University (expected 2028)
-- B.S. in Mathematics, Moscow Institute of Physics and Technology (2019 --- 2023)
+- B.S. in Applied Mathematics and Computer Science, Moscow Institute of Physics and Technology (2019 --- 2023)
 
 ## Research Interests
 
-Discrete and Convex Geometry, Topology, Combinatorics
+- Discrete and Convex Geometry
+- Topology
+- Optimization
 
 ## Publications 
 
  [F. Gerasimov, A. Shutov "On An Interesting Circle in a Triangle"](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf) (2019)
+
+## Awards
+
+- **Russian National Olympiad in Matematics**, Silver Medal (2019)
