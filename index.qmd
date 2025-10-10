@@ -1,7 +1,7 @@
 ---
-title: "Fedor (Theodore) Gerasimov"
+title: "Fedor (Theodore) V. Gerasimov"
 image: fedya.jpg
----
+--- 
 
 <!-- ![](fedya.jpg){width=250} -->
 <div style="text-align: center;">
