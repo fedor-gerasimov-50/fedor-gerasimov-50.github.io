@@ -1,23 +1,23 @@
 ---
 title: "Fedor (Theodore) V. Gerasimov"
-image: fedya.jpg
---- 
+---
 
-<!-- ![](fedya.jpg){width=250} -->
-<div style="text-align: center;">
-  <img src="img/Tapia_Theodore_main.jpg" width="250">
-</div>
-
-I am a rising 3-rd year Mathematics PhD student at Rice University.
-
-My interests are discrete and convex geometry, topology, and optimization.
-
-In 2023, I received my B.S. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology.
-
-## Contact
+::: {.columns}
+::: {.column width="40%"}
+![](img/Tapia_Theodore_main.jpg){width=200}
 
 **Email:** fg50`<at>`rice`<dot>`edu
 
 **LinkedIn:** [Fedor Gerasimov](https://www.linkedin.com/in/fedor-gerasimov-450352238/)
 
 **GitHub:** [Fedor Gerasimov](https://github.com/fedor-gerasimov-50)
+:::
+
+::: {.column width="60%"}
+I am a PhD student in Mathematics at Rice University.
+
+My research interests include discrete & convex geometry, topology, and optimization.
+
+I received my B.Sc. in Applied Mathematics and Computer Science from MIPT.
+:::
+:::

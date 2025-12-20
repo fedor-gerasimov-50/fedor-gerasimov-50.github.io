@@ -1,7 +1,16 @@
-body {
-  background: linear-gradient(to right, #f9f9f9, #f1f1f1);
+main.content {
+  max-width: 820px;
 }
 
+img {
+  border-radius: 6px;
+}
+
+/* body {
+  background: linear-gradient(to right, #f9f9f9, #f1f1f1);
+} */
+
+/* 
 img {
   border-radius: 12px;
   box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
@@ -12,4 +21,4 @@ main.content {
   padding-bottom: 2rem;
   max-width: 700px;
   margin: 0 auto;
-}
+} */
