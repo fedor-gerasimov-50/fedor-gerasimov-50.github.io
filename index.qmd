@@ -18,6 +18,6 @@ I am a PhD student in Mathematics at Rice University.
 
 My research interests include discrete & convex geometry, topology, and optimization.
 
-I received my B.Sc. in Applied Mathematics and Computer Science from MIPT.
+I received my B.Sc. in Applied Mathematics and Computer Science from Moscow Institute of Physics and Technology in 2023.
 :::
 :::
