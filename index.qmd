@@ -4,7 +4,7 @@ title: "Fedor (Theodore) V. Gerasimov"
 
 ::: {.columns}
 ::: {.column width="40%"}
-![](img/Tapia_Theodore_main.jpg){width=200}
+![](img/Tapia_Theodore_main.jpg){width=270}
 
 **Email:** fg50`<at>`rice`<dot>`edu
 
