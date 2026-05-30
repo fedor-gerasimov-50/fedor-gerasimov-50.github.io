@@ -2,6 +2,9 @@
 _site/
 /.quarto/
 
+# Backups / local archive
+archive/
+
 # Quarto cache (if using Jupyter/Python)
 __pycache__/
 .ipynb_checkpoints/

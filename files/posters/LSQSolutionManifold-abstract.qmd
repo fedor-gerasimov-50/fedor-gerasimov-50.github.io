@@ -1,0 +1,8 @@
+#### Title:
+Exploring Local Solution Manifolds of Nonlinear Least Squares Problems
+
+#### Abstract: 
+This poster presents a characterization of the local solution manifold of
+rank-deficient nonlinear least squares problems, in which the Jacobian has constant rank in a neighborhood of a solution. We also present and an initial apprpach to computationally explore the local solution manifold.
+Parameter estimation problems in some computational neuron models lead to nonlinear least squares problems of this type. Identifying local solution manifolds provides important information to neuroscientists. The proposed characterization of the local solution manifold is based on the constant
+rank theorem and on a subset selection algorithm. A version of the Levenberg-Marquardt algorithm using subset selection is used to compute local solutions. The approach is used to compute local solution manifolds in an HCN channel model.

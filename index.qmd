@@ -1,23 +1,50 @@
 ---
-title: "Fedor (Theodore) V. Gerasimov"
+page-layout: full
+toc: false
 ---
 
-::: {.columns}
-::: {.column width="40%"}
-![](img/Tapia_Theodore_main.jpg){width=270}
+::: {.homepage}
 
-**Email:** fg50`<at>`rice`<dot>`edu
+::: {.sidebar}
+![](files/img/Tapia_Theodore_main_large.jpg)
 
-**LinkedIn:** [Fedor Gerasimov](https://www.linkedin.com/in/fedor-gerasimov-450352238/)
+#### **Fedor V. Gerasimov**  
 
-**GitHub:** [Fedor Gerasimov](https://github.com/fedor-gerasimov-50)
+PhD student in Mathematics  
+Rice University
+
+**Email:** fg50 [at] rice [dot] edu  
+**CV:** [PDF](files/Fedor_Gerasimov_CV.pdf){target="_blank" rel="noopener"}  
+**GitHub:** [fedor-gerasimov-50](https://github.com/fedor-gerasimov-50){target="_blank" rel="noopener"}  
+**LinkedIn:** [Fedor Gerasimov](https://www.linkedin.com/in/fedor-gerasimov-450352238/){target="_blank" rel="noopener"}
 :::
 
-::: {.column width="60%"}
-I am a PhD student in Mathematics at Rice University.
+::: {.main-content}
 
-My research interests include discrete & convex geometry, topology, and optimization.
+## About
 
-I received my B.Sc. in Applied Mathematics and Computer Science from Moscow Institute of Physics and Technology in 2023.
+I am a second-year PhD student in Mathematics at Rice University, advised by [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"}.
+
+My research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry.
+
+Before joining the Mathematics Department, I worked in the [CMOR Department](https://cmor.rice.edu/){target="_blank" rel="noopener"} at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds in nonlinear least squares problems.
+
+I received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}, studied blocking and covering numbers of convex bodies.
+
+## Research interests
+
+- Discrete and convex geometry
+- Polyhedral geometry and unfoldings of convex polyhedra
+- Blocking and covering problems for convex bodies
+- Combinatorial and topological methods in geometry
+- Computational geometry
+
+## Talks and Posters
+
+- **Exploring Local Solution Manifolds of Nonlinear Least Squares Problems**  
+Presented at: [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/annual-rtg-workshop){target="_blank" rel="noopener"}, Rice University; [SIAM TX/LA 2024 Section Annual Meeting](https://math.artsandsciences.baylor.edu/conferences/siam-conference){target="_blank" rel="noopener"}, Baylor University.  
+[Poster](files/posters/LSQSolutionManifold.pdf){target="_blank" rel="noopener"} · [Abstract](files/posters/LSQSolutionManifold-abstract.qmd){target="_blank" rel="noopener"}
+
 :::
+
 :::

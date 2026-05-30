@@ -1,25 +1,23 @@
 project:
   type: website
-  output-dir: _site
 
 website:
   title: "Fedor V. Gerasimov"
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
-      - text: "Resume"
-        href: resume.qmd
-      - text: "Blog"
-        href: blog/index.qmd
-      - text: "Teaching"
-        href: teaching/index.qmd
-  page-footer:
-    left: "© 2025 Fedor Gerasimov"
-    right: "Built with Quarto"
+      - href: index.qmd
+        text: Home
+      - href: contents/research/research.qmd
+        text: Research
+      # - href: talks.qmd
+      #   text: Talks
+      - href: contents/teaching/teaching.qmd
+        text: Teaching
+      - href: contents/CV/CV.qmd
+        text: CV
 
 format:
   html:
-    theme: litera
-    toc: true
+    theme: cosmo
     css: styles.css
+    toc: true

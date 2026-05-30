@@ -2,18 +2,14 @@
 title: "CV"
 ---
 
-Download [CV](Fedor_Gerasimov_CV.pdf)
+Download [CV](files/CV/Fedor_Gerasimov_CV.pdf)
 
 ## Education
 
 - Ph.D. in Mathematics, Rice University (expected 2028)
+- Ph.D. in Computational Applied Mathematics and Operations Research (2023-2025)
 - B.Sc. in Applied Mathematics and Computer Science, Moscow Institute of Physics and Technology (2019 --- 2023)
 
-## Research Interests
-
-- Discrete and Convex Geometry
-- Topology
-- Optimization
 
 ## Publications 
 
