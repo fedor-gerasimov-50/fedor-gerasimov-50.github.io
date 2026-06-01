@@ -1,45 +1,10 @@
 [
   {
-    "objectID": "teaching/index.html",
-    "href": "teaching/index.html",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
     "title": "Fedor V. Gerasimov",
     "section": "",
-    "text": "I am passionate about teaching mathematics and helping others discover its beauty and accessibility through visual and geometric thinking\n\n\nTeaching Experience\n\nTapia Camp\nMathematics Instructor — Summer 2025 Tapia Camps are award-winning residential STEM camps for high school students organized by the Tapia Center at Rice University. Over four camp weeks, I taught “Techniques of a Pro Mathematician”, a week-long course on the core principles professionals use to learn and do math more efficiently and effectively.\nCMOR 360: Introduction to Optimization and Operations Research\nTeaching Assistant — Spring 2025 Held office hours and recitation sessions, graded assignments, and provided academic support throughout the semester.\nLyceum “The Second School”\nCompetitive Math Coach — September 2021 to May 2022 Led two weekly two-hour classes preparing high school students for the Russian National Mathematics Olympiad and other regional math competitions."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "CV",
-    "section": "",
-    "text": "Download CV"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\n\nPh.D. in Mathematics, Rice University (expected 2028)\nB.Sc. in Applied Mathematics and Computer Science, Moscow Institute of Physics and Technology (2019 — 2023)"
-  },
-  {
-    "objectID": "resume.html#research-interests",
-    "href": "resume.html#research-interests",
-    "title": "CV",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nDiscrete and Convex Geometry\nTopology\nOptimization"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "CV",
-    "section": "Publications",
-    "text": "Publications\nF. Gerasimov, A. Shutov “On An Interesting Circle in a Triangle” (2019)"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "CV",
-    "section": "Awards",
-    "text": "Awards\n\nRussian National Mathematics Olympiad, Silver Medal (2019)"
+    "text": "To Appear"
   },
   {
     "objectID": "LICENSE.html",
@@ -56,17 +21,171 @@
     "text": "Except where otherwise noted, all content on this website is licensed under the\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n© 2025 Fedor Gerasimov"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Fedor (Theodore) V. Gerasimov",
+    "objectID": "files/publications/BScThesis-blocking.html",
+    "href": "files/publications/BScThesis-blocking.html",
+    "title": "Maximum-sum matchings of points",
     "section": "",
-    "text": "Email: fg50&lt;at&gt;rice&lt;dot&gt;edu\nLinkedIn: Fedor Gerasimov\nGitHub: Fedor Gerasimov\n\nI am a PhD student in Mathematics at Rice University.\nMy research interests include discrete & convex geometry, topology, and optimization.\nI received my B.Sc. in Applied Mathematics and Computer Science from Moscow Institute of Physics and Technology in 2023."
+    "text": "This was an undergraduate research project at the Moscow Institute of Physics and Technology, supervised by Alexander Polyanskii.\nGiven an even set of points in the Euclidean plane, a maximum-sum matching is a perfect matching that maximizes the total Euclidean length of the matched pairs.\nA motivating question, posed by Andy Fingerhut in 1995, asks whether certain ellipses induced by the edges of a maximum-sum matching must have a common intersection point. More precisely, for each matched pair, consider the ellipse with foci at the two endpoints and eccentricity \\(\\sqrt{3}/2\\). Barabanshchikova and Polyanskii proved that the convex sets bounded by these ellipses have a common intersection point.\nSee Barabanshchikova and Polyanskii, Intersecting ellipses induced by a max-sum matching."
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
+    "objectID": "contents/research/research.html",
+    "href": "contents/research/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies in discrete, convex, and computational geometry, with a current focus on polyhedral geometry and unfoldings of convex polyhedra."
+  },
+  {
+    "objectID": "contents/research/research.html#current-work",
+    "href": "contents/research/research.html#current-work",
+    "title": "Research",
+    "section": "Current work",
+    "text": "Current work\nI am currently working with Gregory Chambers on problems in polyhedral geometry, especially unfoldings of convex polyhedra.\nSome themes I am interested in include:\n\nunfoldings of polyhedra\nblocking and covering numbers of convex bodies\nrigidity theory and applications of the theory of places"
+  },
+  {
+    "objectID": "contents/research/research.html#previous-research",
+    "href": "contents/research/research.html#previous-research",
+    "title": "Research",
+    "section": "Previous research",
+    "text": "Previous research\nBefore joining the Mathematics Department, I worked in the CMOR Department at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds in nonlinear least squares problems.\nAs an undergraduate at the Moscow Institute of Physics and Technology, I worked with Alexander Polyanskii on problems in discrete and convex geometry. My bachelor’s thesis studied blocking numbers of convex bodies."
+  },
+  {
+    "objectID": "contents/research/research.html#talks-and-posters",
+    "href": "contents/research/research.html#talks-and-posters",
+    "title": "Research",
+    "section": "Talks and posters",
+    "text": "Talks and posters\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract"
+  },
+  {
+    "objectID": "contents/research/research.html#undergraduate-and-earlier-projects",
+    "href": "contents/research/research.html#undergraduate-and-earlier-projects",
+    "title": "Research",
+    "section": "Undergraduate and earlier projects",
+    "text": "Undergraduate and earlier projects\n\nBlocking Numbers of Convex Bodies\nBachelor’s thesis, Moscow Institute of Physics and Technology, supervised by Alexander Polyanskii.\nMaximum-sum matchings of points\nUndergraduate research project at MIPT, supervised by Alexander Polyanskii.\nThe project concerned maximum-sum matchings of points: given an even number of points in the plane, find a perfect matching maximizing the sum of lengths of edges connecting the matched pairs.\nA conjecture of Andy Fingerhut from 1995 about ellipses induced by such matchings was later resolved by P. Barabanshchikova and A. Polyanskii in Intersecting ellipses induced by a max-sum matching.\nRigidity of Laman graphs and the Bellows conjecture\nThesis for the Research Practicum at MIPT, supervised by Alexander Polyanskii.\nI studied applications of the theory of places used in the proof of the Bellows Conjecture. I was able to use this tool to find a proof of the rigidity of Laman graphs."
+  },
+  {
+    "objectID": "contents/CV/CV.html",
+    "href": "contents/CV/CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download full CV."
+  },
+  {
+    "objectID": "contents/CV/CV.html#education",
+    "href": "contents/CV/CV.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nRice University, PhD student in Mathematics, 2023–present\nAdvisor: Gregory Chambers.\nResearch interests: discrete, convex, and computational geometry\nMoscow Institute of Physics and Technology, BSc in Applied Mathematics and Computer Science, 2019–2023\nThesis: Blocking Numbers of Convex Bodies, advised by Alexander A. Polyanskii.\nYandex School of Data Analysis, 2022–2023\nA selective two-year graduate-level program in machine learning, data analysis, algorithms, and applied statistical methods."
+  },
+  {
+    "objectID": "contents/CV/CV.html#publications",
+    "href": "contents/CV/CV.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\n\nAndrey S. Shutov and Fedor V. Gerasimov, On an Interesting Circle in a Triangle\nMoscow Mathematical Conference of High School Students, 2019."
+  },
+  {
+    "objectID": "contents/CV/CV.html#selected-research-experience",
+    "href": "contents/CV/CV.html#selected-research-experience",
+    "title": "CV",
+    "section": "Selected research experience",
+    "text": "Selected research experience\n\nBachelor’s thesis: Blocking Numbers of Convex Bodies, 2022–2023\nMoscow Institute of Physics and Technology\nAdvisor: Alexander A. Polyanskii\nMaximum-sum matchings of points, Summer 2021\nUndergraduate research project at MIPT\nAdvisor: Alexander A. Polyanskii\nRigidity of Laman graphs and the Bellows conjecture, 2020–2021\nUndergraduate research practicum at MIPT\nAdvisor: Alexander A. Polyanskii"
+  },
+  {
+    "objectID": "contents/CV/CV.html#teaching-experience",
+    "href": "contents/CV/CV.html#teaching-experience",
+    "title": "CV",
+    "section": "Teaching experience",
+    "text": "Teaching experience\n\nMathematics Instructor, Tapia Camp at Rice University, Summer 2025\nInstructor for The Techniques of a Pro Mathematician for high-school students.\nTeaching Assistant, Rice University, Spring 2025\nCMOR 360: Introduction to Optimization and Operations Research.\nOlympiad Mathematics Coach, Lyceum “The Second School,” 2020–2021\nOrganized a curriculum in advanced olympiad mathematics for 8th-grade students."
+  },
+  {
+    "objectID": "contents/CV/CV.html#selected-awards",
+    "href": "contents/CV/CV.html#selected-awards",
+    "title": "CV",
+    "section": "Selected awards",
+    "text": "Selected awards\n\nAll-Russian National Olympiad in Mathematics, Silver Medal, 2019\nMoscow Mathematical Conference of High School Students, Best Project Award, 2020\nHigher School of Economics Mathematical Olympiad, Gold Medals, 2018 and 2019\nMoscow Mathematical Olympiad, Silver Medals, 2018 and 2019"
+  },
+  {
+    "objectID": "contents/CV/CV.html#conferences-and-programs",
+    "href": "contents/CV/CV.html#conferences-and-programs",
+    "title": "CV",
+    "section": "Conferences and programs",
+    "text": "Conferences and programs\n\nSIAM TX/LA Conference, 2024\nPresented the poster Exploring Local Solution Manifolds of Nonlinear Least Squares Problems.\nInternational Conference on the Geometry and Topology of 3-Manifolds, 2022\nWorkshop on the Contemporary Problems of Applied Combinatorics, 2021\nGave a talk on modeling an epidemic on a random graph."
+  },
+  {
+    "objectID": "contents/CV/CV.html#skills",
+    "href": "contents/CV/CV.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nProgramming: Python, C++, R, MATLAB, Wolfram Mathematica, Lean Tools: LaTeX, Markdown, Gurobi\nLanguages: Russian (mother tongue), English, Spanish (novice)"
+  },
+  {
+    "objectID": "contents/teaching/teaching.html",
+    "href": "contents/teaching/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I enjoy teaching mathematics through extensive problem solving and visual intuition. My teaching experience includes coaching students in preparation for national mathematics competitions in Russia, and serving as a teaching assistant for an undergraduate optimization course."
+  },
+  {
+    "objectID": "contents/teaching/teaching.html#teaching-experience",
+    "href": "contents/teaching/teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching experience",
+    "text": "Teaching experience\n\nTapia Camps at Rice University\nMathematics Instructor — Summer 2025\nTaught Techniques of a Pro Mathematician, a week-long course for high-school students on mathematical problem solving, proof strategies, and the core principles to learn and do mathematics more efficiently and effectively.\nCMOR 360: Introduction to Optimization and Operations Research\nTeaching Assistant, Rice University — Spring 2025\nHeld recitation sessions and office hours, created and graded assignments, and helped students with course material in optimization and operations research.\nLyceum “The Second School”\nCompetitive Mathematics Coach — September 2021 to May 2022\nLed two weekly two-hour classes for students preparing for the Russian National Mathematics Olympiad and other regional mathematics competitions."
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download CV"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\n\nPh.D. in Mathematics, Rice University (expected 2028)\nPh.D. in Computational Applied Mathematics and Operations Research (2023-2025)\nB.Sc. in Applied Mathematics and Computer Science, Moscow Institute of Physics and Technology (2019 — 2023)"
+  },
+  {
+    "objectID": "CV.html#publications",
+    "href": "CV.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\nF. Gerasimov, A. Shutov “On An Interesting Circle in a Triangle” (2019)"
+  },
+  {
+    "objectID": "CV.html#awards",
+    "href": "CV.html#awards",
+    "title": "CV",
+    "section": "Awards",
+    "text": "Awards\n\nRussian National Mathematics Olympiad, Silver Medal (2019)"
+  },
+  {
+    "objectID": "files/posters/LSQSolutionManifold-abstract.html",
+    "href": "files/posters/LSQSolutionManifold-abstract.html",
     "title": "Fedor V. Gerasimov",
     "section": "",
-    "text": "To Appear"
+    "text": "Title:\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\n\n\nAbstract:\nThis poster presents a characterization of the local solution manifold of rank-deficient nonlinear least squares problems, in which the Jacobian has constant rank in a neighborhood of a solution. We also present and an initial apprpach to computationally explore the local solution manifold. Parameter estimation problems in some computational neuron models lead to nonlinear least squares problems of this type. Identifying local solution manifolds provides important information to neuroscientists. The proposed characterization of the local solution manifold is based on the constant rank theorem and on a subset selection algorithm. A version of the Levenberg-Marquardt algorithm using subset selection is used to compute local solutions. The approach is used to compute local solution manifolds in an HCN channel model."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fedor V. Gerasimov",
+    "section": "",
+    "text": "PhD student in Mathematics\nRice University\nEmail: fg50 [at] rice [dot] edu\nCV: PDF\nGitHub: fedor-gerasimov-50\nLinkedIn: Fedor Gerasimov\n\n\n\n\n\nI am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the Research page for more details.\nBefore joining the Mathematics Department, I worked in the CMOR Department at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies.\n\n\n\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract\nOn an Interesting Circle in a Triangle\nPresented at the Moscow Mathematical Conference of High School Students, 2019.\nAwarded Best Project.\nPaper"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Fedor V. Gerasimov",
+    "section": "",
+    "text": "I am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the Research page for more details.\nBefore joining the Mathematics Department, I worked in the CMOR Department at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies."
+  },
+  {
+    "objectID": "index.html#selected-talks-and-posters",
+    "href": "index.html#selected-talks-and-posters",
+    "title": "Fedor V. Gerasimov",
+    "section": "",
+    "text": "Exploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract\nOn an Interesting Circle in a Triangle\nPresented at the Moscow Mathematical Conference of High School Students, 2019.\nAwarded Best Project.\nPaper"
   }
 ]
