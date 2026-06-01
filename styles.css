@@ -7,18 +7,36 @@
   align-items: start;
 }
 
-.profile-sidebar {
+.profile-card {
+  text-align: left;
+}
+
+.sidebar {
   font-size: 0.95rem;
   line-height: 1.45;
 }
 
-.profile-sidebar img {
+.sidebar img {
   width: 100%;
   height: auto;
 }
 
-.profile-sidebar p {
+.sidebar p {
   margin-bottom: 0.05rem;
+}
+
+.sidebar > p:first-child {
+  margin-bottom: 0.85rem;
+}
+
+.profile-name {
+  margin: 0.85rem 0 -1.5rem 0;
+  line-height: 1.2;
+}
+
+.profile-name + p {
+  margin-top: 0;
+  margin-bottom: 1.75rem;
 }
 
 .main-content {
@@ -29,29 +47,74 @@
 /* Mobile layout */
 @media (max-width: 768px) {
   .homepage {
-    display: block;
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 0 1rem;
+    display: flex !important;
+    flex-direction: column !important;
+    grid-template-columns: none !important;
+    gap: 0rem !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding: 0 1rem !important;
   }
 
-  .sidebar {
+  .homepage .sidebar {
+    position: static !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    max-height: none !important;
+    overflow: visible !important;
+    margin: 0 0 1.5rem 0 !important;
+    text-align: center !important;
+  }
+
+  .homepage .sidebar img {
+    width: 65% !important;
+    max-width: 200px !important;
+    height: auto !important;
+    display: block !important;
+    margin: 0 auto 1rem auto !important;
+  }
+
+  .homepage .sidebar > p:first-child {
+    margin-bottom: 0 !important;
+  }
+
+  .homepage .main-content {
+    width: 100% !important;
+    max-width: 100% !important;
+    min-width: 0 !important;
+    overflow-wrap: break-word !important;
+  }
+
+  .profile-card {
+    text-align: center !important;
     width: 100%;
-    max-width: 100%;
-    margin-bottom: 2rem;
-    text-align: center;
   }
 
-  .sidebar img {
-    max-width: 220px;
-    width: 70%;
-    height: auto;
-    display: block;
-    margin: 0 auto 1rem auto;
+  .profile-card h4 {
+    text-align: center !important;
+    margin: 0 0 0.8rem 0 !important;
   }
 
-  .main-content {
-    width: 100%;
-    max-width: 100%;
+  .homepage .profile-name {
+    display: block !important;
+    width: 100% !important;
+    text-align: center !important;
+    margin-top: 0 !important;
+    margin-bottom: 0.05rem !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .homepage .profile-name .anchorjs-link {
+    display: none !important;
+  }
+
+  .homepage .profile-name + p {
+    margin-top: 0.2rem !important;
+    margin-bottom: 1.0rem !important;
+  }
+
+  .profile-card p {
+    text-align: center !important;
   }
 }

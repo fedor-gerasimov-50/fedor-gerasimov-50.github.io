@@ -8,8 +8,8 @@ toc: false
 ::: {.sidebar}
 ![](files/img/Tapia_Theodore_main_large.jpg)
 
-#### **Fedor V. Gerasimov**  
 
+<h3 class="profile-name">Fedor V. Gerasimov</h3>  
 PhD student in Mathematics  
 Rice University
 
@@ -18,6 +18,7 @@ Rice University
 **GitHub:** [fedor-gerasimov-50](https://github.com/fedor-gerasimov-50){target="_blank" rel="noopener"}  
 **LinkedIn:** [Fedor Gerasimov](https://www.linkedin.com/in/fedor-gerasimov-450352238/){target="_blank" rel="noopener"}
 :::
+
 
 ::: {.main-content}
 
