@@ -26,17 +26,32 @@
   line-height: 1.6;
 }
 
-@media (max-width: 900px) {
+/* Mobile layout */
+@media (max-width: 768px) {
   .homepage {
     display: block;
-    margin: 24px 16px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 1rem;
   }
 
-  .profile-sidebar {
-    width: auto;
+  .sidebar {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 2rem;
+    text-align: center;
   }
 
-  .profile-sidebar img {
-    width: 220px;
+  .sidebar img {
+    max-width: 220px;
+    width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto 1rem auto;
+  }
+
+  .main-content {
+    width: 100%;
+    max-width: 100%;
   }
 }
