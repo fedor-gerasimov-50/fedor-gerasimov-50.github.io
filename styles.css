@@ -26,17 +26,17 @@
 }
 
 .sidebar > p:first-child {
-  margin-bottom: 0.85rem;
+  margin-bottom: 0.45rem;
 }
 
 .profile-name {
-  margin: 0.85rem 0 -1.5rem 0;
+  margin: 0.2rem 0 -1.6rem 0;
   line-height: 1.2;
 }
 
 .profile-name + p {
   margin-top: 0;
-  margin-bottom: 1.75rem;
+  margin-bottom: 0.6rem;
 }
 
 .main-content {
@@ -71,7 +71,7 @@
     max-width: 200px !important;
     height: auto !important;
     display: block !important;
-    margin: 0 auto 1rem auto !important;
+    margin: 0 auto 0.55rem auto !important;
   }
 
   .homepage .sidebar > p:first-child {
@@ -111,7 +111,7 @@
 
   .homepage .profile-name + p {
     margin-top: 0.2rem !important;
-    margin-bottom: 1.0rem !important;
+    margin-bottom: 0.2rem !important;
   }
 
   .profile-card p {
