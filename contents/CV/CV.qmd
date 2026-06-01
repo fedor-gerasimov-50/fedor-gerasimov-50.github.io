@@ -1,20 +1,71 @@
 ---
 title: "CV"
+toc: false
 ---
 
-Download [CV](files/CV/Fedor_Gerasimov_CV.pdf)
+Download [full CV](files/CV/Fedor_Gerasimov_CV.pdf){target="_blank" rel="noopener"}.
 
 ## Education
 
-- Ph.D. in Mathematics, Rice University (expected 2028)
-- Ph.D. in Computational Applied Mathematics and Operations Research (2023-2025)
-- B.Sc. in Applied Mathematics and Computer Science, Moscow Institute of Physics and Technology (2019 --- 2023)
+- **Rice University**, PhD student in Mathematics, 2023–present  
+  Advisor: [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"}.  
+  Research interests: discrete, convex, and computational geometry
 
+- **Moscow Institute of Physics and Technology**, BSc in Applied Mathematics and Computer Science, 2019–2023  
+  Thesis: *Blocking Numbers of Convex Bodies*, advised by [Alexander A. Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.
 
-## Publications 
+- **Yandex School of Data Analysis**, 2022–2023  
+  A selective two-year graduate-level [program](https://dataschool.yandex.com/){target="_blank" rel="noopener"} in machine learning, data analysis, algorithms, and applied statistical methods.
 
- [F. Gerasimov, A. Shutov "On An Interesting Circle in a Triangle"](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf) (2019)
+## Publications
 
-## Awards
+- Andrey S. Shutov and **Fedor V. Gerasimov**, [On an Interesting Circle in a Triangle](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf){target="_blank" rel="noopener"}  
+Moscow Mathematical Conference of High School Students, 2019.
 
-- **Russian National Mathematics Olympiad**, Silver Medal (2019)
+## Selected research experience
+
+- **Bachelor’s thesis: Blocking Numbers of Convex Bodies**, 2022–2023  
+  Moscow Institute of Physics and Technology  
+  Advisor: Alexander A. Polyanskii
+
+- **Maximum-sum matchings of points**, Summer 2021  
+  Undergraduate research project at MIPT  
+  Advisor: Alexander A. Polyanskii
+
+- **Rigidity of Laman graphs and the Bellows conjecture**, 2020–2021  
+  Undergraduate research practicum at MIPT  
+  Advisor: Alexander A. Polyanskii
+
+## Teaching experience
+
+- **Mathematics Instructor**, Tapia Camp at Rice University, Summer 2025  
+  Instructor for *The Techniques of a Pro Mathematician* for high-school students.
+
+- **Teaching Assistant**, Rice University, Spring 2025  
+  CMOR 360: *Introduction to Optimization and Operations Research*.
+
+- **Olympiad Mathematics Coach**, Lyceum “The Second School,” 2020–2021  
+  Organized a curriculum in advanced olympiad mathematics for 8th-grade students.
+
+## Selected awards
+
+- **All-Russian National Olympiad in Mathematics**, Silver Medal, 2019
+- **Moscow Mathematical Conference of High School Students**, Best Project Award, 2020
+- **Higher School of Economics Mathematical Olympiad**, Gold Medals, 2018 and 2019
+- **Moscow Mathematical Olympiad**, Silver Medals, 2018 and 2019
+
+## Conferences and programs
+
+- **SIAM TX/LA Conference**, 2024  
+  Presented the poster *Exploring Local Solution Manifolds of Nonlinear Least Squares Problems*.
+
+- **International Conference on the Geometry and Topology of 3-Manifolds**, 2022
+
+- **Workshop on the Contemporary Problems of Applied Combinatorics**, 2021  
+  Gave a talk on modeling an epidemic on a random graph.
+
+## Skills
+
+**Programming:** Python, C++, R, MATLAB, Wolfram Mathematica, Lean
+**Tools:** LaTeX, Markdown, Gurobi  
+**Languages:** Russian (mother tongue), English, Spanish (novice)

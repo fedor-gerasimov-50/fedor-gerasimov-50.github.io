@@ -3,31 +3,29 @@ title: "Research"
 toc: false
 ---
 
-My research interests are in **discrete, convex, and computational geometry**, with a current focus on polyhedral geometry and unfoldings of convex polyhedra.
+My research lies in **discrete, convex, and computational geometry**, with a current focus on polyhedral geometry and unfoldings of convex polyhedra.
 
-## Current research
+## Current work
 
-I am currently working with [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"} on problems in discrete and convex geometry, especially questions related to **unfoldings of convex polyhedra**.
+I am currently working with [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"} on problems in polyhedral geometry, especially **unfoldings of convex polyhedra**.
 
-Broadly, I am interested in:
+Some themes I am interested in include:
 
-- polyhedral geometry;
-- edge unfoldings and affine unfoldings of convex polyhedra;
-- combinatorial and topological methods in geometry;
-- blocking and covering problems for convex bodies;
-- computational geometry.
+- unfoldings of polyhedra
+- blocking and covering numbers of convex bodies
+- rigidity theory and applications of the theory of places
 
 ## Previous research
 
 Before joining the Mathematics Department, I worked in the [CMOR Department](https://cmor.rice.edu/){target="_blank" rel="noopener"} at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds in nonlinear least squares problems.
 
-As an undergraduate at the Moscow Institute of Physics and Technology, I worked with [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"} on problems in combinatorial and convex geometry. My bachelor’s thesis studied **blocking numbers of convex bodies**.
+As an undergraduate at the Moscow Institute of Physics and Technology, I worked with [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"} on problems in discrete and convex geometry. My bachelor’s thesis studied **blocking numbers of convex bodies**.
 
 ## Talks and posters
 
 - **Exploring Local Solution Manifolds of Nonlinear Least Squares Problems**  
-  Poster presented at [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/annual-rtg-workshop){target="_blank" rel="noopener"}, Rice University, and the [SIAM TX/LA 2024 Section Annual Meeting](https://math.artsandsciences.baylor.edu/conferences/siam-conference){target="_blank" rel="noopener"}, Baylor University.  
-  [Poster](files/posters/LSQSolutionManifold.pdf){target="_blank" rel="noopener"} · [Abstract](files/posters/LSQSolutionManifold-abstract.qmd){target="_blank" rel="noopener"}
+Poster presented at [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/annual-rtg-workshop){target="_blank" rel="noopener"}, Rice University, and the [SIAM TX/LA 2024 Section Annual Meeting](https://math.artsandsciences.baylor.edu/conferences/siam-conference){target="_blank" rel="noopener"}, Baylor University.  
+[Poster](../../files/posters/LSQSolutionManifold.pdf){target="_blank" rel="noopener"} · [Abstract](../../files/posters/LSQSolutionManifold-abstract.qmd){target="_blank" rel="noopener"}
 
 ## Undergraduate and earlier projects
 
@@ -35,7 +33,10 @@ As an undergraduate at the Moscow Institute of Physics and Technology, I worked 
   Bachelor’s thesis, Moscow Institute of Physics and Technology, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.
 
 - **Maximum-sum matchings of points**  
-  Research experience at MIPT, supervised by Alexander Polyanskii.
+Undergraduate research project at MIPT, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.  
+The project concerned maximum-sum matchings of points: given an even number of points in the plane, find a perfect matching maximizing the sum of lengths of edges connecting the matched pairs.  
+A [conjecture](https://ics.uci.edu/~eppstein/junkyard/maxmatch.html) of Andy Fingerhut from 1995 about ellipses induced by such matchings was later resolved by P. Barabanshchikova and A. Polyanskii in [*Intersecting ellipses induced by a max-sum matching*](https://arxiv.org/abs/2212.14200){target="_blank" rel="noopener"}.
 
 - **Rigidity of Laman graphs and the Bellows conjecture**  
-  Research practicum at MIPT. I studied problems related to rigidity theory and found a proof of the rigidity of Laman graphs using the theory of places.
+  Thesis for the Research Practicum at MIPT, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.  
+  I studied applications of the theory of places used in the proof of the Bellows Conjecture. I was able to use this tool to find a proof of the rigidity of Laman graphs.

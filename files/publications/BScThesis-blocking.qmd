@@ -1,0 +1,12 @@
+---
+title: "Maximum-sum matchings of points"
+toc: false
+---
+
+This was an undergraduate research project at the Moscow Institute of Physics and Technology, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.
+
+Given an even set of points in the Euclidean plane, a **maximum-sum matching** is a perfect matching that maximizes the total Euclidean length of the matched pairs.
+
+A motivating question, posed by Andy Fingerhut in 1995, asks whether certain ellipses induced by the edges of a maximum-sum matching must have a common intersection point. More precisely, for each matched pair, consider the ellipse with foci at the two endpoints and eccentricity $\sqrt{3}/2$. Barabanshchikova and Polyanskii proved that the convex sets bounded by these ellipses have a common intersection point.
+
+See Barabanshchikova and Polyanskii, [*Intersecting ellipses induced by a max-sum matching*](https://arxiv.org/abs/2212.14200){target="_blank" rel="noopener"}.

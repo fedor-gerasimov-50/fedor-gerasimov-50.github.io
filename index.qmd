@@ -23,27 +23,23 @@ Rice University
 
 ## About
 
-I am a second-year PhD student in Mathematics at Rice University, advised by [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"}.
+I am a PhD student in Mathematics at Rice University, advised by [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"}.
 
-My research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry.
+My research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the [Research](contents/research/research.qmd) page for more details.
 
-Before joining the Mathematics Department, I worked in the [CMOR Department](https://cmor.rice.edu/){target="_blank" rel="noopener"} at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds in nonlinear least squares problems.
+Before joining the Mathematics Department, I worked in the [CMOR Department](https://cmor.rice.edu/){target="_blank" rel="noopener"} at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds of nonlinear least squares problems.
 
 I received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}, studied blocking and covering numbers of convex bodies.
 
-## Research interests
-
-- Discrete and convex geometry
-- Polyhedral geometry and unfoldings of convex polyhedra
-- Blocking and covering problems for convex bodies
-- Combinatorial and topological methods in geometry
-- Computational geometry
-
-## Talks and Posters
+## Selected talks and posters
 
 - **Exploring Local Solution Manifolds of Nonlinear Least Squares Problems**  
-Presented at: [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/annual-rtg-workshop){target="_blank" rel="noopener"}, Rice University; [SIAM TX/LA 2024 Section Annual Meeting](https://math.artsandsciences.baylor.edu/conferences/siam-conference){target="_blank" rel="noopener"}, Baylor University.  
+Poster presented at [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/annual-rtg-workshop){target="_blank" rel="noopener"}, Rice University, and the [SIAM TX/LA 2024 Section Annual Meeting](https://math.artsandsciences.baylor.edu/conferences/siam-conference){target="_blank" rel="noopener"}, Baylor University.  
 [Poster](files/posters/LSQSolutionManifold.pdf){target="_blank" rel="noopener"} · [Abstract](files/posters/LSQSolutionManifold-abstract.qmd){target="_blank" rel="noopener"}
+- **On an Interesting Circle in a Triangle**  
+  Presented at the [Moscow Mathematical Conference of High School Students](https://old.mccme.ru//mmks//index_eng.htm), 2019.  
+  Awarded Best Project.  
+  [Paper](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf){target="_blank" rel="noopener"}
 
 :::
 
