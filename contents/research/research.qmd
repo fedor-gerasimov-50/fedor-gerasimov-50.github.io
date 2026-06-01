@@ -35,7 +35,7 @@ Poster presented at [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/an
 - **Maximum-sum matchings of points**  
 Undergraduate research project at MIPT, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.  
 The project concerned maximum-sum matchings of points: given an even number of points in the plane, find a perfect matching maximizing the sum of lengths of edges connecting the matched pairs.  
-A [conjecture](https://ics.uci.edu/~eppstein/junkyard/maxmatch.html) of Andy Fingerhut from 1995 about ellipses induced by such matchings was later resolved by P. Barabanshchikova and A. Polyanskii in [*Intersecting ellipses induced by a max-sum matching*](https://arxiv.org/abs/2212.14200){target="_blank" rel="noopener"}.
+A [conjecture](https://ics.uci.edu/~eppstein/junkyard/maxmatch.html) of Andy Fingerhut from 1995 about ellipses induced by such matchings was later resolved by P. Barabanshchikova and A. Polyanskii in [Intersecting ellipses induced by a max-sum matching](https://arxiv.org/abs/2212.14200){target="_blank" rel="noopener"}.
 
 - **Rigidity of Laman graphs and the Bellows conjecture**  
   Thesis for the Research Practicum at MIPT, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.  
