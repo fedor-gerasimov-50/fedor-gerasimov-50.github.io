@@ -39,14 +39,14 @@
     "href": "index.html",
     "title": "Fedor V. Gerasimov",
     "section": "",
-    "text": "PhD student in Mathematics\nRice University\nEmail: fg50 [at] rice [dot] edu\nCV: PDF\nGitHub: fedor-gerasimov-50\nLinkedIn: Fedor Gerasimov\n\n\n\n\nI am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the Research page for more details.\nBefore joining the Mathematics Department, I worked in the CMOR Department at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies.\n\n\n\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract\nOn an Interesting Circle in a Triangle\nPresented at the Moscow Mathematical Conference of High School Students, 2019.\nAwarded Best Project.\nPaper"
+    "text": "PhD student in Mathematics\nRice University\nEmail: fg50 [at] rice [dot] edu\nCV: PDF\nGitHub: fedor-gerasimov-50\nLinkedIn: Fedor Gerasimov\n\n\n\n\nI am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the Research page for more details.\nBefore joining the Mathematics Department, I worked at the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies.\n\n\n\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract\nOn an Interesting Circle in a Triangle\nPresented at the Moscow Mathematical Conference of High School Students, 2019.\nAwarded Best Project.\nPaper"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Fedor V. Gerasimov",
     "section": "",
-    "text": "I am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the Research page for more details.\nBefore joining the Mathematics Department, I worked in the CMOR Department at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies."
+    "text": "I am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the Research page for more details.\nBefore joining the Mathematics Department, I worked at the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies."
   },
   {
     "objectID": "index.html#selected-talks-and-posters",
@@ -54,6 +54,69 @@
     "title": "Fedor V. Gerasimov",
     "section": "",
     "text": "Exploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract\nOn an Interesting Circle in a Triangle\nPresented at the Moscow Mathematical Conference of High School Students, 2019.\nAwarded Best Project.\nPaper"
+  },
+  {
+    "objectID": "contents/teaching/teaching.html",
+    "href": "contents/teaching/teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I enjoy teaching mathematics through extensive problem solving and visual intuition. My teaching experience includes coaching students in preparation for national mathematics competitions in Russia, and serving as a teaching assistant for an undergraduate optimization course."
+  },
+  {
+    "objectID": "contents/teaching/teaching.html#teaching-experience",
+    "href": "contents/teaching/teaching.html#teaching-experience",
+    "title": "Teaching",
+    "section": "Teaching experience",
+    "text": "Teaching experience\n\nTapia Camps at Rice University\nMathematics Instructor — Summer 2025\nTaught Techniques of a Pro Mathematician, a week-long course for high-school students on mathematical problem solving, proof strategies, and the core principles to learn and do mathematics more efficiently and effectively.\nCMOR 360: Introduction to Optimization and Operations Research\nTeaching Assistant, Rice University — Spring 2025\nHeld recitation sessions and office hours, created and graded assignments, and helped students with course material in optimization and operations research.\nLyceum “The Second School”\nCompetitive Mathematics Coach — September 2021 to May 2022\nLed two weekly two-hour classes for students preparing for the Russian National Mathematics Olympiad and other regional mathematics competitions."
+  },
+  {
+    "objectID": "LICENSE.html",
+    "href": "LICENSE.html",
+    "title": "Fedor V. Gerasimov",
+    "section": "",
+    "text": "Except where otherwise noted, all content on this website is licensed under the\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n© 2025 Fedor Gerasimov"
+  },
+  {
+    "objectID": "LICENSE.html#license",
+    "href": "LICENSE.html#license",
+    "title": "Fedor V. Gerasimov",
+    "section": "",
+    "text": "Except where otherwise noted, all content on this website is licensed under the\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n© 2025 Fedor Gerasimov"
+  },
+  {
+    "objectID": "contents/research/research.html",
+    "href": "contents/research/research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research lies in discrete, convex, and computational geometry, with a current focus on polyhedral geometry and unfoldings of convex polyhedra."
+  },
+  {
+    "objectID": "contents/research/research.html#current-work",
+    "href": "contents/research/research.html#current-work",
+    "title": "Research",
+    "section": "Current work",
+    "text": "Current work\nI am currently working with Gregory Chambers on problems in polyhedral geometry, especially unfoldings of convex polyhedra.\nSome themes I am interested in include:\n\nunfoldings of polyhedra\nblocking and covering numbers of convex bodies\nrigidity theory and applications of the theory of places"
+  },
+  {
+    "objectID": "contents/research/research.html#previous-research",
+    "href": "contents/research/research.html#previous-research",
+    "title": "Research",
+    "section": "Previous research",
+    "text": "Previous research\nBefore joining the Mathematics Department, I worked in the CMOR Department at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds in nonlinear least squares problems.\nAs an undergraduate at the Moscow Institute of Physics and Technology, I worked with Alexander Polyanskii on problems in discrete and convex geometry. My bachelor’s thesis studied blocking numbers of convex bodies."
+  },
+  {
+    "objectID": "contents/research/research.html#talks-and-posters",
+    "href": "contents/research/research.html#talks-and-posters",
+    "title": "Research",
+    "section": "Talks and posters",
+    "text": "Talks and posters\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract"
+  },
+  {
+    "objectID": "contents/research/research.html#undergraduate-and-earlier-projects",
+    "href": "contents/research/research.html#undergraduate-and-earlier-projects",
+    "title": "Research",
+    "section": "Undergraduate and earlier projects",
+    "text": "Undergraduate and earlier projects\n\nBlocking Numbers of Convex Bodies\nBachelor’s thesis, Moscow Institute of Physics and Technology, supervised by Alexander Polyanskii.\nMaximum-sum matchings of points\nUndergraduate research project at MIPT, supervised by Alexander Polyanskii.\nThe project concerned maximum-sum matchings of points: given an even number of points in the plane, find a perfect matching maximizing the sum of lengths of edges connecting the matched pairs.\nA conjecture of Andy Fingerhut from 1995 about ellipses induced by such matchings was later resolved by P. Barabanshchikova and A. Polyanskii in Intersecting ellipses induced by a max-sum matching.\nRigidity of Laman graphs and the Bellows conjecture\nThesis for the Research Practicum at MIPT, supervised by Alexander Polyanskii.\nI studied applications of the theory of places used in the proof of the Bellows Conjecture. I was able to use this tool to find a proof of the rigidity of Laman graphs."
   },
   {
     "objectID": "contents/CV/CV.html",
@@ -112,67 +175,11 @@
     "text": "Skills\nProgramming: Python, C++, R, MATLAB, Wolfram Mathematica, Lean Tools: LaTeX, Markdown, Gurobi\nLanguages: Russian (mother tongue), English, Spanish (novice)"
   },
   {
-    "objectID": "contents/research/research.html",
-    "href": "contents/research/research.html",
-    "title": "Research",
-    "section": "",
-    "text": "My research lies in discrete, convex, and computational geometry, with a current focus on polyhedral geometry and unfoldings of convex polyhedra."
-  },
-  {
-    "objectID": "contents/research/research.html#current-work",
-    "href": "contents/research/research.html#current-work",
-    "title": "Research",
-    "section": "Current work",
-    "text": "Current work\nI am currently working with Gregory Chambers on problems in polyhedral geometry, especially unfoldings of convex polyhedra.\nSome themes I am interested in include:\n\nunfoldings of polyhedra\nblocking and covering numbers of convex bodies\nrigidity theory and applications of the theory of places"
-  },
-  {
-    "objectID": "contents/research/research.html#previous-research",
-    "href": "contents/research/research.html#previous-research",
-    "title": "Research",
-    "section": "Previous research",
-    "text": "Previous research\nBefore joining the Mathematics Department, I worked in the CMOR Department at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds in nonlinear least squares problems.\nAs an undergraduate at the Moscow Institute of Physics and Technology, I worked with Alexander Polyanskii on problems in discrete and convex geometry. My bachelor’s thesis studied blocking numbers of convex bodies."
-  },
-  {
-    "objectID": "contents/research/research.html#talks-and-posters",
-    "href": "contents/research/research.html#talks-and-posters",
-    "title": "Research",
-    "section": "Talks and posters",
-    "text": "Talks and posters\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract"
-  },
-  {
-    "objectID": "contents/research/research.html#undergraduate-and-earlier-projects",
-    "href": "contents/research/research.html#undergraduate-and-earlier-projects",
-    "title": "Research",
-    "section": "Undergraduate and earlier projects",
-    "text": "Undergraduate and earlier projects\n\nBlocking Numbers of Convex Bodies\nBachelor’s thesis, Moscow Institute of Physics and Technology, supervised by Alexander Polyanskii.\nMaximum-sum matchings of points\nUndergraduate research project at MIPT, supervised by Alexander Polyanskii.\nThe project concerned maximum-sum matchings of points: given an even number of points in the plane, find a perfect matching maximizing the sum of lengths of edges connecting the matched pairs.\nA conjecture of Andy Fingerhut from 1995 about ellipses induced by such matchings was later resolved by P. Barabanshchikova and A. Polyanskii in Intersecting ellipses induced by a max-sum matching.\nRigidity of Laman graphs and the Bellows conjecture\nThesis for the Research Practicum at MIPT, supervised by Alexander Polyanskii.\nI studied applications of the theory of places used in the proof of the Bellows Conjecture. I was able to use this tool to find a proof of the rigidity of Laman graphs."
-  },
-  {
-    "objectID": "LICENSE.html",
-    "href": "LICENSE.html",
+    "objectID": "contents/fun-and-notes/programming.html",
+    "href": "contents/fun-and-notes/programming.html",
     "title": "Fedor V. Gerasimov",
     "section": "",
-    "text": "Except where otherwise noted, all content on this website is licensed under the\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n© 2025 Fedor Gerasimov"
-  },
-  {
-    "objectID": "LICENSE.html#license",
-    "href": "LICENSE.html#license",
-    "title": "Fedor V. Gerasimov",
-    "section": "",
-    "text": "Except where otherwise noted, all content on this website is licensed under the\nCreative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.\n\n© 2025 Fedor Gerasimov"
-  },
-  {
-    "objectID": "contents/teaching/teaching.html",
-    "href": "contents/teaching/teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "I enjoy teaching mathematics through extensive problem solving and visual intuition. My teaching experience includes coaching students in preparation for national mathematics competitions in Russia, and serving as a teaching assistant for an undergraduate optimization course."
-  },
-  {
-    "objectID": "contents/teaching/teaching.html#teaching-experience",
-    "href": "contents/teaching/teaching.html#teaching-experience",
-    "title": "Teaching",
-    "section": "Teaching experience",
-    "text": "Teaching experience\n\nTapia Camps at Rice University\nMathematics Instructor — Summer 2025\nTaught Techniques of a Pro Mathematician, a week-long course for high-school students on mathematical problem solving, proof strategies, and the core principles to learn and do mathematics more efficiently and effectively.\nCMOR 360: Introduction to Optimization and Operations Research\nTeaching Assistant, Rice University — Spring 2025\nHeld recitation sessions and office hours, created and graded assignments, and helped students with course material in optimization and operations research.\nLyceum “The Second School”\nCompetitive Mathematics Coach — September 2021 to May 2022\nLed two weekly two-hour classes for students preparing for the Russian National Mathematics Olympiad and other regional mathematics competitions."
+    "text": "I enjoy solving ProjectEuler and Leetcode problems in my free time. My ProectEuler nickname is gefedya."
   },
   {
     "objectID": "blog/index.html",

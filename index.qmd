@@ -28,7 +28,7 @@ I am a PhD student in Mathematics at Rice University, advised by [Gregory Chambe
 
 My research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the [Research](contents/research/research.qmd) page for more details.
 
-Before joining the Mathematics Department, I worked in the [CMOR Department](https://cmor.rice.edu/){target="_blank" rel="noopener"} at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds of nonlinear least squares problems.
+Before joining the Mathematics Department, I worked at the [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/){target="_blank" rel="noopener"} (CMOR) at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds of nonlinear least squares problems.
 
 I received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}, studied blocking and covering numbers of convex bodies.
 
