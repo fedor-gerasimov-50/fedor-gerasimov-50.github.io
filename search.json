@@ -38,29 +38,29 @@
     "objectID": "contents/research/research.html#current-work",
     "href": "contents/research/research.html#current-work",
     "title": "Research",
-    "section": "Current work",
-    "text": "Current work\nI am currently working with Gregory Chambers on problems in polyhedral geometry, especially unfoldings of convex polyhedra.\nSome themes I am interested in include:\n\nunfoldings of polyhedra\nblocking and covering numbers of convex bodies\nrigidity theory and applications of the theory of places"
+    "section": "Current Work",
+    "text": "Current Work\nI am currently working with Gregory Chambers on problems in polyhedral geometry, especially unfoldings of convex polyhedra.\nI am also interested in related problems in discrete and convex geometry, including:\n\nunfoldings of polyhedra\nblocking and covering numbers of convex bodies\nrigidity theory and applications of the theory of places (algebraic tool used, for example, in the proof of the Bellows Conjecture)"
   },
   {
     "objectID": "contents/research/research.html#previous-research",
     "href": "contents/research/research.html#previous-research",
     "title": "Research",
-    "section": "Previous research",
-    "text": "Previous research\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nAs an undergraduate at the Moscow Institute of Physics and Technology, I worked with Alexander Polyanskii on problems in discrete and convex geometry. My bachelor’s thesis studied blocking numbers of convex bodies."
+    "section": "Previous Research",
+    "text": "Previous Research\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nAs an undergraduate at the Moscow Institute of Physics and Technology, I worked with Alexander Polyanskii on problems in discrete and convex geometry. My bachelor’s thesis studied blocking numbers of convex bodies."
   },
   {
     "objectID": "contents/research/research.html#talks-and-posters",
     "href": "contents/research/research.html#talks-and-posters",
     "title": "Research",
-    "section": "Talks and posters",
-    "text": "Talks and posters\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract"
+    "section": "Talks and Posters",
+    "text": "Talks and Posters\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract"
   },
   {
     "objectID": "contents/research/research.html#undergraduate-and-earlier-projects",
     "href": "contents/research/research.html#undergraduate-and-earlier-projects",
     "title": "Research",
-    "section": "Undergraduate and earlier projects",
-    "text": "Undergraduate and earlier projects\n\nBlocking Numbers of Convex Bodies\nBachelor’s thesis, Moscow Institute of Physics and Technology, supervised by Alexander Polyanskii.\nMaximum-sum matchings of points\nUndergraduate research project at MIPT, supervised by Alexander Polyanskii.\nThe project concerned maximum-sum matchings of points: given an even number of points in the plane, find a perfect matching maximizing the sum of lengths of edges connecting the matched pairs.\nA conjecture of Andy Fingerhut from 1995 about ellipses induced by such matchings was later resolved by P. Barabanshchikova and A. Polyanskii in Intersecting ellipses induced by a max-sum matching.\nRigidity of Laman graphs and the Bellows conjecture\nThesis for the Research Practicum at MIPT, supervised by Alexander Polyanskii.\nI studied applications of the theory of places used in the proof of the Bellows Conjecture. I was able to use this tool to find a proof of the rigidity of Laman graphs."
+    "section": "Undergraduate and Earlier Projects",
+    "text": "Undergraduate and Earlier Projects\n\nBlocking Numbers of Convex Bodies\nBachelor’s thesis, Moscow Institute of Physics and Technology, supervised by Alexander Polyanskii.\nMaximum-sum matchings of points\nUndergraduate research project at MIPT, supervised by Alexander Polyanskii.\nThe project concerned maximum-sum matchings of points: given an even number of points in the plane, find a perfect matching maximizing the sum of lengths of edges connecting the matched pairs.\nA conjecture of Andy Fingerhut from 1995 about ellipses induced by such matchings was later resolved by P. Barabanshchikova and A. Polyanskii in Intersecting ellipses induced by a max-sum matching.\nRigidity of Laman graphs and the Bellows conjecture\nThesis for the Research Practicum at MIPT, supervised by Alexander Polyanskii.\nI studied applications of the theory of places used in the proof of the Bellows Conjecture. I was able to use this tool to find a proof of the rigidity of Laman graphs."
   },
   {
     "objectID": "contents/CV/CV.html",
@@ -84,32 +84,32 @@
     "text": "Publications\n\nAndrey S. Shutov and Fedor V. Gerasimov, On an Interesting Circle in a Triangle\nMoscow Mathematical Conference of High School Students, 2019."
   },
   {
-    "objectID": "contents/CV/CV.html#selected-research-experience",
-    "href": "contents/CV/CV.html#selected-research-experience",
+    "objectID": "contents/CV/CV.html#research-experience",
+    "href": "contents/CV/CV.html#research-experience",
     "title": "CV",
-    "section": "Selected research experience",
-    "text": "Selected research experience\n\nBachelor’s thesis: Blocking Numbers of Convex Bodies, 2022–2023\nMoscow Institute of Physics and Technology\nAdvisor: Alexander A. Polyanskii\nMaximum-sum matchings of points, Summer 2021\nUndergraduate research project at MIPT\nAdvisor: Alexander A. Polyanskii\nRigidity of Laman graphs and the Bellows conjecture, 2020–2021\nUndergraduate research practicum at MIPT\nAdvisor: Alexander A. Polyanskii"
+    "section": "Research Experience",
+    "text": "Research Experience\n\nBachelor’s thesis: Blocking Numbers of Convex Bodies, 2022–2023\nMoscow Institute of Physics and Technology\nAdvisor: Alexander A. Polyanskii\nMaximum-sum matchings of points, Summer 2021\nUndergraduate research project at MIPT\nAdvisor: Alexander A. Polyanskii\nRigidity of Laman graphs and the Bellows conjecture, 2020–2021\nUndergraduate research practicum at MIPT\nAdvisor: Alexander A. Polyanskii"
   },
   {
     "objectID": "contents/CV/CV.html#teaching-experience",
     "href": "contents/CV/CV.html#teaching-experience",
     "title": "CV",
-    "section": "Teaching experience",
-    "text": "Teaching experience\n\nMathematics Instructor, Tapia Camp at Rice University, Summer 2025\nInstructor for The Techniques of a Pro Mathematician for high-school students.\nTeaching Assistant, Rice University, Spring 2025\nCMOR 360: Introduction to Optimization and Operations Research.\nOlympiad Mathematics Coach, Lyceum “The Second School,” 2020–2021\nOrganized a curriculum in advanced olympiad mathematics for 8th-grade students."
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nMathematics Instructor, Tapia Camp at Rice University, Summer 2025\nInstructor for The Techniques of a Pro Mathematician for high-school students.\nTeaching Assistant, Rice University, Spring 2025\nCMOR 360: Introduction to Optimization and Operations Research.\nOlympiad Mathematics Coach, Lyceum “The Second School,” 2020–2021\nOrganized a curriculum in advanced olympiad mathematics for 8th-grade students."
   },
   {
     "objectID": "contents/CV/CV.html#selected-awards",
     "href": "contents/CV/CV.html#selected-awards",
     "title": "CV",
-    "section": "Selected awards",
-    "text": "Selected awards\n\nAll-Russian National Olympiad in Mathematics, Silver Medal, 2019\nMoscow Mathematical Conference of High School Students, Best Project Award, 2020\nHigher School of Economics Mathematical Olympiad, Gold Medals, 2018 and 2019\nMoscow Mathematical Olympiad, Silver Medals, 2018 and 2019"
+    "section": "Selected Awards",
+    "text": "Selected Awards\n\nAll-Russian National Olympiad in Mathematics, Silver Medal, 2019\nMoscow Mathematical Conference of High School Students, Best Project Award, 2020\nHigher School of Economics Mathematical Olympiad, Gold Medals, 2018 and 2019\nMoscow Mathematical Olympiad, Silver Medals, 2018 and 2019"
   },
   {
     "objectID": "contents/CV/CV.html#conferences-and-programs",
     "href": "contents/CV/CV.html#conferences-and-programs",
     "title": "CV",
-    "section": "Conferences and programs",
-    "text": "Conferences and programs\n\nSIAM TX/LA Conference, 2024\nPresented the poster Exploring Local Solution Manifolds of Nonlinear Least Squares Problems.\nInternational Conference on the Geometry and Topology of 3-Manifolds, 2022\nWorkshop on the Contemporary Problems of Applied Combinatorics, 2021\nGave a talk on modeling an epidemic on a random graph."
+    "section": "Conferences and Programs",
+    "text": "Conferences and Programs\n\nSIAM TX/LA Conference, 2024\nPresented the poster Exploring Local Solution Manifolds of Nonlinear Least Squares Problems.\nInternational Conference on the Geometry and Topology of 3-Manifolds, 2022\nWorkshop on the Contemporary Problems of Applied Combinatorics, 2021\nGave a talk on modeling an epidemic on a random graph."
   },
   {
     "objectID": "contents/CV/CV.html#skills",
@@ -129,8 +129,8 @@
     "objectID": "contents/teaching/teaching.html#teaching-experience",
     "href": "contents/teaching/teaching.html#teaching-experience",
     "title": "Teaching",
-    "section": "Teaching experience",
-    "text": "Teaching experience\n\nTapia Camps at Rice University\nMathematics Instructor — Summer 2025\nTaught Techniques of a Pro Mathematician, a week-long course for high-school students on mathematical problem solving, proof strategies, and the core principles to learn and do mathematics more efficiently and effectively.\nCMOR 360: Introduction to Optimization and Operations Research\nTeaching Assistant, Rice University — Spring 2025\nHeld recitation sessions and office hours, created and graded assignments, and helped students with course material in optimization and operations research.\nLyceum “The Second School”\nCompetitive Mathematics Coach — September 2021 to May 2022\nLed two weekly two-hour classes for students preparing for the Russian National Mathematics Olympiad and other regional mathematics competitions."
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\n\nTapia Camps at Rice University\nMathematics Instructor — Summer 2025\nTaught Techniques of a Pro Mathematician, a week-long course for high-school students on mathematical problem solving, proof strategies, and the core principles to learn and do mathematics more efficiently and effectively.\nCMOR 360: Introduction to Optimization and Operations Research\nTeaching Assistant, Rice University — Spring 2025\nHeld recitation sessions and office hours, created and graded assignments, and helped students with course material in optimization and operations research.\nLyceum “The Second School”\nCompetitive Mathematics Coach — September 2021 to May 2022\nLed two weekly two-hour classes for students preparing for the Russian National Mathematics Olympiad and other regional mathematics competitions."
   },
   {
     "objectID": "contents/fun-and-notes/programming.html",
