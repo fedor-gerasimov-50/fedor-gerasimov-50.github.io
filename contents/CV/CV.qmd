@@ -66,6 +66,6 @@ Moscow Mathematical Conference of High School Students, 2019.
 
 ## Skills
 
-**Programming:** Python, C++, R, MATLAB, Wolfram Mathematica, Lean
+**Programming:** Python, C++, R, MATLAB, Wolfram Mathematica, Lean  
 **Tools:** LaTeX, Markdown, Gurobi  
 **Languages:** Russian (mother tongue), English, Spanish (novice)
