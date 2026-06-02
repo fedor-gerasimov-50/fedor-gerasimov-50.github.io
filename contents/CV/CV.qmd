@@ -19,7 +19,7 @@ Download [full CV](files/CV/Fedor_Gerasimov_CV.pdf){target="_blank" rel="noopene
 
 ## Publications
 
-- Andrey S. Shutov and **Fedor V. Gerasimov**, [On an Interesting Circle in a Triangle](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf){target="_blank" rel="noopener"}  
+- Andrey S. Shutov and Fedor V. Gerasimov, [On an Interesting Circle in a Triangle](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf){target="_blank" rel="noopener"}  
 Moscow Mathematical Conference of High School Students, 2019.
 
 ## Selected research experience

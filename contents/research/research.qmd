@@ -17,7 +17,7 @@ Some themes I am interested in include:
 
 ## Previous research
 
-Before joining the Mathematics Department, I worked in the [CMOR Department](https://cmor.rice.edu/){target="_blank" rel="noopener"} at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds in nonlinear least squares problems.
+Before joining the Mathematics Department, I worked in the [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/){target="_blank" rel="noopener"} (CMOR) at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds of nonlinear least squares problems.
 
 As an undergraduate at the Moscow Institute of Physics and Technology, I worked with [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"} on problems in discrete and convex geometry. My bachelor’s thesis studied **blocking numbers of convex bodies**.
 
