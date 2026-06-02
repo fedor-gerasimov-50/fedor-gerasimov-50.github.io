@@ -5,29 +5,29 @@ toc: false
 
 My research lies in **discrete, convex, and computational geometry**, with a current focus on polyhedral geometry and unfoldings of convex polyhedra.
 
-## Current work
+## Current Work
 
 I am currently working with [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"} on problems in polyhedral geometry, especially **unfoldings of convex polyhedra**.
 
-Some themes I am interested in include:
+I am also interested in related problems in discrete and convex geometry, including:
 
 - unfoldings of polyhedra
 - blocking and covering numbers of convex bodies
-- rigidity theory and applications of the theory of places
+- rigidity theory and applications of the theory of places (algebraic tool used, for example, in the proof of the [Bellows Conjecture](https://mathworld.wolfram.com/BellowsConjecture.html))
 
-## Previous research
+## Previous Research
 
 Before joining the Mathematics Department, I worked in the [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/){target="_blank" rel="noopener"} (CMOR) at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds of nonlinear least squares problems.
 
-As an undergraduate at the Moscow Institute of Physics and Technology, I worked with [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"} on problems in discrete and convex geometry. My bachelor’s thesis studied **blocking numbers of convex bodies**.
+As an undergraduate at the Moscow Institute of Physics and Technology, I worked with [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"} on problems in discrete and convex geometry. My bachelor’s thesis studied blocking numbers of convex bodies.
 
-## Talks and posters
+## Talks and Posters
 
 - **Exploring Local Solution Manifolds of Nonlinear Least Squares Problems**  
 Poster presented at [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/annual-rtg-workshop){target="_blank" rel="noopener"}, Rice University, and the [SIAM TX/LA 2024 Section Annual Meeting](https://math.artsandsciences.baylor.edu/conferences/siam-conference){target="_blank" rel="noopener"}, Baylor University.  
 [Poster](../../files/posters/LSQSolutionManifold.pdf){target="_blank" rel="noopener"} · [Abstract](../../files/posters/LSQSolutionManifold-abstract.qmd){target="_blank" rel="noopener"}
 
-## Undergraduate and earlier projects
+## Undergraduate and Earlier Projects
 
 - **Blocking Numbers of Convex Bodies**  
   Bachelor’s thesis, Moscow Institute of Physics and Technology, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.

@@ -22,7 +22,7 @@ Download [full CV](files/CV/Fedor_Gerasimov_CV.pdf){target="_blank" rel="noopene
 - Andrey S. Shutov and Fedor V. Gerasimov, [On an Interesting Circle in a Triangle](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf){target="_blank" rel="noopener"}  
 Moscow Mathematical Conference of High School Students, 2019.
 
-## Selected research experience
+## Research Experience
 
 - **Bachelor’s thesis: Blocking Numbers of Convex Bodies**, 2022–2023  
   Moscow Institute of Physics and Technology  
@@ -36,7 +36,7 @@ Moscow Mathematical Conference of High School Students, 2019.
   Undergraduate research practicum at MIPT  
   Advisor: Alexander A. Polyanskii
 
-## Teaching experience
+## Teaching Experience
 
 - **Mathematics Instructor**, Tapia Camp at Rice University, Summer 2025  
   Instructor for *The Techniques of a Pro Mathematician* for high-school students.
@@ -47,14 +47,14 @@ Moscow Mathematical Conference of High School Students, 2019.
 - **Olympiad Mathematics Coach**, Lyceum “The Second School,” 2020–2021  
   Organized a curriculum in advanced olympiad mathematics for 8th-grade students.
 
-## Selected awards
+## Selected Awards
 
 - **All-Russian National Olympiad in Mathematics**, Silver Medal, 2019
 - **Moscow Mathematical Conference of High School Students**, Best Project Award, 2020
 - **Higher School of Economics Mathematical Olympiad**, Gold Medals, 2018 and 2019
 - **Moscow Mathematical Olympiad**, Silver Medals, 2018 and 2019
 
-## Conferences and programs
+## Conferences and Programs
 
 - **SIAM TX/LA Conference**, 2024  
   Presented the poster *Exploring Local Solution Manifolds of Nonlinear Least Squares Problems*.
