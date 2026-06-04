@@ -56,6 +56,9 @@ Moscow Mathematical Conference of High School Students, 2019.
 
 ## Conferences and Programs
 
+- **International Computational Geometry Week (CG Week 2026)**, New Brunswick, NJ, 2026  
+  Attended talks and workshops in computational and discrete geometry.
+
 - **SIAM TX/LA Conference**, 2024  
   Presented the poster *Exploring Local Solution Manifolds of Nonlinear Least Squares Problems*.
 
