@@ -7,9 +7,11 @@ Download [full CV](files/CV/Fedor_Gerasimov_CV.pdf){target="_blank" rel="noopene
 
 ## Education
 
-- **Rice University**, PhD student in Mathematics, 2023–present  
-  Advisor: [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"}.  
+- **Rice University**, PhD student, 2023 – present  
+  Department of Mathematics, advisor: [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"}, 2025 – present   
   Research interests: discrete, convex, and computational geometry
+
+  *Previously:* Computational Applied Mathematics and Operations Research, 2023–2025
 
 - **Moscow Institute of Physics and Technology**, BSc in Applied Mathematics and Computer Science, 2019–2023  
   Thesis: *Blocking Numbers of Convex Bodies*, advised by [Alexander A. Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.
@@ -36,7 +38,10 @@ Moscow Mathematical Conference of High School Students, 2019.
   Undergraduate research practicum at MIPT  
   Advisor: Alexander A. Polyanskii
 
-## Teaching Experience
+## Teaching and Mentoring
+
+- **Directed Reading Group Organizer**, Rice University, Spring 2026  
+  Organized a reading group for undergraduates on applications of linear algebra, with an emphasis geometry, algorithms, and optimization. See [Teaching](../../contents/teaching/teaching.qmd) for readings and details.
 
 - **Mathematics Instructor**, Tapia Camp at Rice University, Summer 2025  
   Instructor for *The Techniques of a Pro Mathematician* for high-school students.
@@ -53,6 +58,16 @@ Moscow Mathematical Conference of High School Students, 2019.
 - **Moscow Mathematical Conference of High School Students**, Best Project Award, 2020
 - **Higher School of Economics Mathematical Olympiad**, Gold Medals, 2018 and 2019
 - **Moscow Mathematical Olympiad**, Silver Medals, 2018 and 2019
+
+## Conferences and programs
+
+- **International Computational Geometry Week (CG Week 2026)**, New Brunswick, NJ, 2026  
+  Attended talks and workshops in computational and discrete geometry.
+
+## Academic service
+
+- **Graduate Student Association Representative**, Department of Mathematics, Rice University, 2025–2026  
+  Represented the Mathematics Department in Rice University's Graduate Student Association.
 
 ## Conferences and Programs
 
