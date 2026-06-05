@@ -102,14 +102,14 @@
     "href": "contents/CV/CV.html#selected-awards",
     "title": "CV",
     "section": "Selected Awards",
-    "text": "Selected Awards\n\nAll-Russian National Olympiad in Mathematics, Silver Medal, 2019\nMoscow Mathematical Conference of High School Students, Best Project Award, 2020\nHigher School of Economics Mathematical Olympiad, Gold Medals, 2018 and 2019\nMoscow Mathematical Olympiad, Silver Medals, 2018 and 2019"
+    "text": "Selected Awards\n\nAll-Russian National Olympiad in Mathematics, Silver Medal, 2019\nMoscow Mathematical Conference of High School Students, Best Paper Award, 2020\nHigher School of Economics Mathematical Olympiad, Gold Medals, 2018 and 2019\nMoscow Mathematical Olympiad, Silver Medals, 2018 and 2019"
   },
   {
     "objectID": "contents/CV/CV.html#conferences-and-programs",
     "href": "contents/CV/CV.html#conferences-and-programs",
     "title": "CV",
-    "section": "Conferences and programs",
-    "text": "Conferences and programs\n\nInternational Computational Geometry Week (CG Week 2026), New Brunswick, NJ, 2026\nAttended talks and workshops in computational and discrete geometry."
+    "section": "Conferences and Programs",
+    "text": "Conferences and Programs\n\nInternational Computational Geometry Week (CG Week 2026), New Brunswick, NJ, 2026\nAttended talks and workshops in computational and discrete geometry.\nSIAM TX/LA Conference, Baylor University, TX, 2024\nPresented the poster Exploring Local Solution Manifolds of Nonlinear Least Squares Problems.\nInternational Conference on the Geometry and Topology of 3-Manifolds, Sochi, Russia, 2022 Attended talks and workshops in geometry and topology.\nWorkshop on the Contemporary Problems of Applied Combinatorics, Sochi, Russia, 2021\nGave a talk on modeling an epidemic on a random graph."
   },
   {
     "objectID": "contents/CV/CV.html#academic-service",
@@ -117,13 +117,6 @@
     "title": "CV",
     "section": "Academic service",
     "text": "Academic service\n\nGraduate Student Association Representative, Department of Mathematics, Rice University, 2025–2026\nRepresented the Mathematics Department in Rice University’s Graduate Student Association."
-  },
-  {
-    "objectID": "contents/CV/CV.html#conferences-and-programs-1",
-    "href": "contents/CV/CV.html#conferences-and-programs-1",
-    "title": "CV",
-    "section": "Conferences and Programs",
-    "text": "Conferences and Programs\n\nInternational Computational Geometry Week (CG Week 2026), New Brunswick, NJ, 2026\nAttended talks and workshops in computational and discrete geometry.\nSIAM TX/LA Conference, 2024\nPresented the poster Exploring Local Solution Manifolds of Nonlinear Least Squares Problems.\nInternational Conference on the Geometry and Topology of 3-Manifolds, 2022\nWorkshop on the Contemporary Problems of Applied Combinatorics, 2021\nGave a talk on modeling an epidemic on a random graph."
   },
   {
     "objectID": "contents/CV/CV.html#skills",
@@ -200,14 +193,14 @@
     "href": "index.html",
     "title": "Fedor V. Gerasimov",
     "section": "",
-    "text": "PhD student in Mathematics\nRice University\nEmail: fg50 [at] rice [dot] edu\nCV: PDF\nGitHub: fedor-gerasimov-50\nLinkedIn: Fedor Gerasimov\n\n\n\n\nI am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the Research page for more details.\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies.\n\n\n\n\nAndrey S. Shutov and Fedor V. Gerasimov, On an Interesting Circle in a Triangle\nMoscow Mathematical Conference of High School Students, 2019.\n\n\n\n\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract\nOn an Interesting Circle in a Triangle, with Andrey S. Shutov\nPresented at the Moscow Mathematical Conference of High School Students, 2019.\nReceived Best Paper Award.\nPaper"
+    "text": "PhD student in Mathematics\nRice University\nEmail: fg50 [at] rice [dot] edu\nCV: PDF\nGitHub: fedor-gerasimov-50\nLinkedIn: Fedor Gerasimov\n\n\n\n\nI am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See Research for more details.\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies.\n\n\n\n\nAndrey S. Shutov and Fedor V. Gerasimov, On an Interesting Circle in a Triangle\nMoscow Mathematical Conference of High School Students, 2019.\n\n\n\n\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract\nOn an Interesting Circle in a Triangle, with Andrey S. Shutov\nPresented at the Moscow Mathematical Conference of High School Students, 2019.\nReceived Best Paper Award.\nPaper"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Fedor V. Gerasimov",
     "section": "",
-    "text": "I am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the Research page for more details.\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies."
+    "text": "I am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See Research for more details.\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies."
   },
   {
     "objectID": "index.html#publications",
