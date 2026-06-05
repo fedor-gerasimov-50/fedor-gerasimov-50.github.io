@@ -26,7 +26,7 @@ Rice University
 
 I am a PhD student in Mathematics at Rice University, advised by [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"}.
 
-My research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See the [Research](contents/research/research.qmd) page for more details.
+My research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See [Research](contents/research/research.qmd) for more details.
 
 Before joining the Mathematics Department, I worked in the [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/){target="_blank" rel="noopener"} (CMOR) at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds of nonlinear least squares problems.
 

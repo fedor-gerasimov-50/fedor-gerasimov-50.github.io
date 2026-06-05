@@ -55,32 +55,28 @@ Moscow Mathematical Conference of High School Students, 2019.
 ## Selected Awards
 
 - **All-Russian National Olympiad in Mathematics**, Silver Medal, 2019
-- **Moscow Mathematical Conference of High School Students**, Best Project Award, 2020
+- **Moscow Mathematical Conference of High School Students**, Best Paper Award, 2020
 - **Higher School of Economics Mathematical Olympiad**, Gold Medals, 2018 and 2019
 - **Moscow Mathematical Olympiad**, Silver Medals, 2018 and 2019
-
-## Conferences and programs
-
-- **International Computational Geometry Week (CG Week 2026)**, New Brunswick, NJ, 2026  
-  Attended talks and workshops in computational and discrete geometry.
-
-## Academic service
-
-- **Graduate Student Association Representative**, Department of Mathematics, Rice University, 2025–2026  
-  Represented the Mathematics Department in Rice University's Graduate Student Association.
 
 ## Conferences and Programs
 
 - **International Computational Geometry Week (CG Week 2026)**, New Brunswick, NJ, 2026  
   Attended talks and workshops in computational and discrete geometry.
 
-- **SIAM TX/LA Conference**, 2024  
+- **SIAM TX/LA Conference**, Baylor University, TX, 2024  
   Presented the poster *Exploring Local Solution Manifolds of Nonlinear Least Squares Problems*.
 
-- **International Conference on the Geometry and Topology of 3-Manifolds**, 2022
+- **International Conference on the Geometry and Topology of 3-Manifolds**, Sochi, Russia, 2022
+  Attended talks and workshops in geometry and topology. 
 
-- **Workshop on the Contemporary Problems of Applied Combinatorics**, 2021  
+- **Workshop on the Contemporary Problems of Applied Combinatorics**, Sochi, Russia, 2021  
   Gave a talk on modeling an epidemic on a random graph.
+
+## Academic service
+
+- **Graduate Student Association Representative**, Department of Mathematics, Rice University, 2025–2026  
+  Represented the Mathematics Department in Rice University's Graduate Student Association.
 
 ## Skills
 
