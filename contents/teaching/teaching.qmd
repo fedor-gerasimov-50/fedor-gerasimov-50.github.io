@@ -8,12 +8,13 @@ I enjoy teaching mathematics through extensive problem solving and visual intuit
 ## Reading Groups
 
 - **Applications of Linear Algebra**  
-  *Directed Reading Group (DRP 26) --- Rice University, Spring 2025*  
-  Organized a directed reading group on applications of linear algebra, with emphasis geometry, algorithms, and optimization. The group centered on selected readings from:
+  *Directed Reading Group (DRP 26) --- Rice University, Spring 2026*  
+  Organized a directed reading group on applications of linear algebra, with an emphasis on geometry, algorithms, and optimization. The group was centered around selected readings from:
   - J. Matoušek, B. Gärtner *"Understanding and Using Linear Programming"*
   - J. Matoušek *"Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra"*,
 
-  along with short papers on the role of determinants in linear algebra. [Schedule and readings](https://docs.google.com/document/d/1J_3LoaARyf10piFmOvUceF6997kdvSCfeQN4c0UNBRU/edit?usp=sharing){target="_blank" rel="noopener"}
+  along with short papers on the role of determinants in linear algebra.   
+  [Schedule and readings](https://docs.google.com/document/d/1J_3LoaARyf10piFmOvUceF6997kdvSCfeQN4c0UNBRU/edit?usp=sharing){target="_blank" rel="noopener"}
 
 ## Teaching Experience
 
