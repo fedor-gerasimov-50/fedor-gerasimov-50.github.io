@@ -22,31 +22,22 @@ Rice University
 
 ::: {.main-content}
 
-## About
+## About Me
 
 I am a PhD student in Mathematics at Rice University, advised by [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"}.
 
-My research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See [Research](contents/research/research.qmd) for more details.
+My research interests lie in discrete, convex, and computational geometry. I am especially interested in unfoldings of convex polyhedra. See [Research](contents/research/research.qmd) for more details.
 
-Before joining the Mathematics Department, I worked in the [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/){target="_blank" rel="noopener"} (CMOR) at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds of nonlinear least squares problems.
+Before joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research <!--(https://cmor.rice.edu/){target="_blank" rel="noopener"}--> (CMOR) at Rice University with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} on parameter identifiability and local solution manifolds of nonlinear least squares problems.
 
-I received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}, studied blocking and covering numbers of convex bodies.
-
-## Publications
-
-- Andrey S. Shutov and Fedor V. Gerasimov, [On an Interesting Circle in a Triangle](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf){target="_blank" rel="noopener"}  
-Moscow Mathematical Conference of High School Students, 2019.
+I received my M.A. in Mathematics from Rice University in 2026 and my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by [Alexander Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}, studied blocking and covering numbers of convex bodies.
 
 
-## Selected Talks and Posters
+## Latest News
 
-- **Exploring Local Solution Manifolds of Nonlinear Least Squares Problems**  
-Poster presented at [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/annual-rtg-workshop){target="_blank" rel="noopener"}, Rice University, and the [SIAM TX/LA 2024 Section Annual Meeting](https://math.artsandsciences.baylor.edu/conferences/siam-conference){target="_blank" rel="noopener"}, Baylor University.  
-[Poster](files/posters/LSQSolutionManifold.pdf){target="_blank" rel="noopener"} · [Abstract](files/posters/LSQSolutionManifold-abstract.qmd){target="_blank" rel="noopener"}
-- **On an Interesting Circle in a Triangle**, with Andrey S. Shutov  
-  Presented at the [Moscow Mathematical Conference of High School Students](https://old.mccme.ru//mmks//index_eng.htm), 2019.  
-  Received Best Paper Award.  
-  [Paper](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf){target="_blank" rel="noopener"}
+- **August 2026** --- I received my M.A. in Mathematics from Rice University.
+- **June 2026** --- I attended the [42nd International Symposium on Computational Geometry (SoCG 2026)](https://cgweek26.computational-geometry.org/){target="_blank" rel="noopener"} at Rutgers University in New Brunswick, New Jersey.
+- **May, 2026** --- I successfully passed my last qualifying exam
    
 :::
 

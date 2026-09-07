@@ -39,21 +39,14 @@
     "href": "index.html",
     "title": "Fedor V. Gerasimov",
     "section": "",
-    "text": "PhD student in Mathematics\nRice University\nEmail: fg50 [at] rice [dot] edu\nCV: PDF\nGitHub: fedor-gerasimov-50\nLinkedIn: Fedor Gerasimov\n\n\n\n\nI am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See Research for more details.\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies.\n\n\n\n\nAndrey S. Shutov and Fedor V. Gerasimov, On an Interesting Circle in a Triangle\nMoscow Mathematical Conference of High School Students, 2019.\n\n\n\n\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract\nOn an Interesting Circle in a Triangle, with Andrey S. Shutov\nPresented at the Moscow Mathematical Conference of High School Students, 2019.\nReceived Best Paper Award.\nPaper"
+    "text": "PhD student in Mathematics\nRice University\nEmail: fg50 [at] rice [dot] edu\nCV: PDF\nGitHub: fedor-gerasimov-50\nLinkedIn: Fedor Gerasimov\n\n\n\n\nI am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests lie in discrete, convex, and computational geometry. I am especially interested in unfoldings of convex polyhedra. See Research for more details.\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research  (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my M.A. in Mathematics from Rice University in 2026 and my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies.\n\n\n\n\nAugust 2026 — I received my M.A. in Mathematics from Rice University.\nJune 2026 — I attended the 42nd International Symposium on Computational Geometry (SoCG 2026) at Rutgers University in New Brunswick, New Jersey.\nMay, 2026 — I successfully passed my last qualifying exam"
   },
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
     "title": "Fedor V. Gerasimov",
     "section": "",
-    "text": "I am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests are in discrete, convex, and computational geometry. I am especially interested in polyhedral geometry, unfoldings of convex polyhedra, and combinatorial/topological methods in geometry. See Research for more details.\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies."
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "Fedor V. Gerasimov",
-    "section": "",
-    "text": "Andrey S. Shutov and Fedor V. Gerasimov, On an Interesting Circle in a Triangle\nMoscow Mathematical Conference of High School Students, 2019."
+    "text": "I am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests lie in discrete, convex, and computational geometry. I am especially interested in unfoldings of convex polyhedra.\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my M.A in Mathematics from Rice University in 2026 and my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies."
   },
   {
     "objectID": "index.html#selected-talks-and-posters",
@@ -110,6 +103,13 @@
     "title": "Research",
     "section": "Current Work",
     "text": "Current Work\nI am currently working with Gregory Chambers on problems in polyhedral geometry, especially unfoldings of convex polyhedra.\nI am also interested in related problems in discrete and convex geometry, including:\n\nunfoldings of polyhedra\nblocking and covering numbers of convex bodies\nrigidity theory and applications of the theory of places (algebraic tool used, for example, in the proof of the Bellows Conjecture)"
+  },
+  {
+    "objectID": "contents/research/research.html#publications",
+    "href": "contents/research/research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nAndrey S. Shutov and Fedor V. Gerasimov, On an Interesting Circle in a Triangle\nMoscow Mathematical Conference of High School Students, 2019."
   },
   {
     "objectID": "contents/research/research.html#previous-research",
@@ -215,5 +215,33 @@
     "title": "Maximum-sum matchings of points",
     "section": "",
     "text": "This was an undergraduate research project at the Moscow Institute of Physics and Technology, supervised by Alexander Polyanskii.\nGiven an even set of points in the Euclidean plane, a maximum-sum matching is a perfect matching that maximizes the total Euclidean length of the matched pairs.\nA motivating question, posed by Andy Fingerhut in 1995, asks whether certain ellipses induced by the edges of a maximum-sum matching must have a common intersection point. More precisely, for each matched pair, consider the ellipse with foci at the two endpoints and eccentricity \\(\\sqrt{3}/2\\). Barabanshchikova and Polyanskii proved that the convex sets bounded by these ellipses have a common intersection point.\nSee Barabanshchikova and Polyanskii, Intersecting ellipses induced by a max-sum matching."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Fedor V. Gerasimov",
+    "section": "",
+    "text": "I am a PhD student in Mathematics at Rice University, advised by Gregory Chambers.\nMy research interests lie in discrete, convex, and computational geometry. I am especially interested in unfoldings of convex polyhedra. See Research for more details.\nBefore joining the Mathematics Department, I worked in the Department of Computational Applied Mathematics and Operations Research  (CMOR) at Rice University with Matthias Heinkenschloss on parameter identifiability and local solution manifolds of nonlinear least squares problems.\nI received my M.A. in Mathematics from Rice University in 2026 and my B.Sc. in Applied Mathematics and Computer Science from the Moscow Institute of Physics and Technology in 2023. My undergraduate thesis, supervised by Alexander Polyanskii, studied blocking and covering numbers of convex bodies."
+  },
+  {
+    "objectID": "contents/teaching/teaching.html#teaching-and-mentoring-experience",
+    "href": "contents/teaching/teaching.html#teaching-and-mentoring-experience",
+    "title": "Teaching",
+    "section": "Teaching and Mentoring Experience",
+    "text": "Teaching and Mentoring Experience\n\nTapia Camps at Rice University\nMathematics Instructor — Summer 2025\nTaught Techniques of a Pro Mathematician, a week-long course for high-school students on mathematical problem solving, proof strategies, and the core principles to learn and do mathematics more efficiently and effectively.\nCMOR 360: Introduction to Optimization and Operations Research\nTeaching Assistant, Rice University — Spring 2025\nHeld recitation sessions and office hours, created and graded assignments, and helped students with course material in optimization and operations research.\nLyceum “The Second School”\nCompetitive Mathematics Coach — September 2021 to May 2022\nLed two weekly two-hour classes for students preparing for the Russian National Mathematics Olympiad and other regional mathematics competitions."
+  },
+  {
+    "objectID": "contents/research/research.html#selected-talks-and-posters",
+    "href": "contents/research/research.html#selected-talks-and-posters",
+    "title": "Research",
+    "section": "Selected Talks and Posters",
+    "text": "Selected Talks and Posters\n\nExploring Local Solution Manifolds of Nonlinear Least Squares Problems\nPoster presented at RTG NASC 2024, Rice University, and the SIAM TX/LA 2024 Section Annual Meeting, Baylor University.\nPoster · Abstract\nOn an Interesting Circle in a Triangle, with Andrey S. Shutov\nPresented at the Moscow Mathematical Conference of High School Students, 2019.\nReceived Best Paper Award.\nPaper"
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Fedor V. Gerasimov",
+    "section": "",
+    "text": "August 2026 — I received my M.A. in Mathematics from Rice University.\nJune 2026 — I attended the 42nd International Symposium on Computational Geometry (SoCG 2026) at Rutgers University in New Brunswick, New Jersey.\nMay, 2026 — I successfully passed my last qualifying exam"
   }
 ]
