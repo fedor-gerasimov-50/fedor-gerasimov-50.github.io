@@ -5,12 +5,9 @@ toc: false
 
 My research lies in **discrete, convex, and computational geometry**, with a current focus on polyhedral geometry and unfoldings of convex polyhedra.
 
-## Current Work
+## Current Research
 
-I am currently working with [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"} on problems in polyhedral geometry, especially **unfoldings of convex polyhedra**.
-
-I am also interested in related problems in discrete and convex geometry, including:
-
+I am currently working with [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"} on problems in discrete and convex geometry, including:
 - unfoldings of polyhedra
 - blocking and covering numbers of convex bodies
 - rigidity theory and applications of the theory of places (algebraic tool used, for example, in the proof of the [Bellows Conjecture](https://mathworld.wolfram.com/BellowsConjecture.html))
@@ -30,7 +27,7 @@ As an undergraduate at the Moscow Institute of Physics and Technology, I worked 
 
 - **Exploring Local Solution Manifolds of Nonlinear Least Squares Problems**  
 Poster presented at [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/annual-rtg-workshop){target="_blank" rel="noopener"}, Rice University, and the [SIAM TX/LA 2024 Section Annual Meeting](https://math.artsandsciences.baylor.edu/conferences/siam-conference){target="_blank" rel="noopener"}, Baylor University.  
-[Poster](files/posters/LSQSolutionManifold.pdf){target="_blank" rel="noopener"} · [Abstract](files/posters/LSQSolutionManifold-abstract.qmd){target="_blank" rel="noopener"}
+[Poster](files/posters/LSQSolutionManifold.pdf){target="_blank" rel="noopener"} · [Abstract](../../files/posters/LSQSolutionManifold-abstract.qmd){target="_blank" rel="noopener"}
 - **On an Interesting Circle in a Triangle**, with Andrey S. Shutov  
   Presented at the [Moscow Mathematical Conference of High School Students](https://old.mccme.ru//mmks//index_eng.htm), 2019.  
   Received Best Paper Award.  

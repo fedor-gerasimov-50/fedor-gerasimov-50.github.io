@@ -243,5 +243,12 @@
     "title": "Fedor V. Gerasimov",
     "section": "",
     "text": "August 2026 — I received my M.A. in Mathematics from Rice University.\nJune 2026 — I attended the 42nd International Symposium on Computational Geometry (SoCG 2026) at Rutgers University in New Brunswick, New Jersey.\nMay, 2026 — I successfully passed my last qualifying exam"
+  },
+  {
+    "objectID": "contents/research/research.html#current-research",
+    "href": "contents/research/research.html#current-research",
+    "title": "Research",
+    "section": "Current Research",
+    "text": "Current Research\nI am currently working with Gregory Chambers on problems in discrete and convex geometry, including: - unfoldings of polyhedra - blocking and covering numbers of convex bodies - rigidity theory and applications of the theory of places (algebraic tool used, for example, in the proof of the Bellows Conjecture)"
   }
 ]
