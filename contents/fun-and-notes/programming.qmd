@@ -1,1 +1,1 @@
-I enjoy solving ProjectEuler and Leetcode problems in my free time. My ProectEuler nickname is `gefedya`.
+I enjoy solving Project Euler and LeetCode problems in my free time. My My Project Euler nickname is `gefedya`.

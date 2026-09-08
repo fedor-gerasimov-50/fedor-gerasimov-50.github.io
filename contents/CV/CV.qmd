@@ -1,85 +1,117 @@
 ---
 title: "CV"
-toc: false
+toc: true
 ---
 
-Download [full CV](files/CV/Fedor_Gerasimov_CV.pdf){target="_blank" rel="noopener"}.
+Download my [full CV](../../files/CV/Fedor_Gerasimov_CV.pdf){target="_blank" rel="noopener"}.
 
 ## Education
 
-- **Rice University**, PhD student, 2023 – present  
-  Department of Mathematics, advisor: [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"}, 2025 – present   
+- **Ph.D. Student in Mathematics**  
+  *Rice University · 2025–present*  
+  Advisor: [Gregory Chambers](https://profiles.rice.edu/faculty/gregory-chambers){target="_blank" rel="noopener"} · Expected graduation: 2028  
   Research interests: discrete, convex, and computational geometry
 
-  *Previously:* Computational Applied Mathematics and Operations Research, 2023–2025
+- **M.A. in Mathematics**  
+  *Rice University · 2026*
 
-- **Moscow Institute of Physics and Technology**, BSc in Applied Mathematics and Computer Science, 2019–2023  
-  Thesis: *Blocking Numbers of Convex Bodies*, advised by [Alexander A. Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}.
+<!-- - **Graduate Study in Computational Applied Mathematics and Operations Research**  
+  *Rice University · 2023–2025* -->
 
-- **Yandex School of Data Analysis**, 2022–2023  
-  A selective two-year graduate-level [program](https://dataschool.yandex.com/){target="_blank" rel="noopener"} in machine learning, data analysis, algorithms, and applied statistical methods.
+- **B.Sc. in Applied Mathematics and Computer Science**  
+  *Moscow Institute of Physics and Technology · 2019–2023*  
+  Thesis: *Blocking Numbers of Convex Bodies* · Advisor: [Alexander A. Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}
+
+- **Graduate-Level Program in Data Analysis and Machine Learning**  
+  *Yandex School of Data Analysis · 2022–2023*  
+  A selective [program](https://dataschool.yandex.com/){target="_blank" rel="noopener"} in machine learning, data analysis, algorithms, and applied statistical methods.
 
 ## Publications
 
-- Andrey S. Shutov and Fedor V. Gerasimov, [On an Interesting Circle in a Triangle](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf){target="_blank" rel="noopener"}  
-Moscow Mathematical Conference of High School Students, 2019.
+- **On an Interesting Circle in a Triangle**  
+  *Moscow Mathematical Conference of High School Students · 2019*  
+  With Andrey S. Shutov · Best Paper Award · [Paper](https://old.mccme.ru//circles//oim/mmks/works2019/shutgera2.pdf){target="_blank" rel="noopener"}
 
 ## Research Experience
 
-- **Bachelor’s thesis: Blocking Numbers of Convex Bodies**, 2022–2023  
-  Moscow Institute of Physics and Technology  
-  Advisor: Alexander A. Polyanskii
+- **Graduate Research — Parameter Identifiability and Local Solution Manifolds**  
+  *Rice University · 2023–2025*  
+  Advisor: [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"}
 
-- **Maximum-sum matchings of points**, Summer 2021  
-  Undergraduate research project at MIPT  
-  Advisor: Alexander A. Polyanskii
+- **Bachelor’s Thesis — Blocking Numbers of Convex Bodies**  
+  *Moscow Institute of Physics and Technology · 2022–2023*  
+  Advisor: [Alexander A. Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}
 
-- **Rigidity of Laman graphs and the Bellows conjecture**, 2020–2021  
-  Undergraduate research practicum at MIPT  
-  Advisor: Alexander A. Polyanskii
+- **Undergraduate Research — Max-Sum Matchings of Points**  
+  *Moscow Institute of Physics and Technology · Summer 2021*  
+  Advisor: [Alexander A. Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}
+
+- **Research Practicum — Rigidity of Laman Graphs and the Bellows Conjecture**  
+  *Moscow Institute of Physics and Technology · 2020–2021*  
+  Advisor: [Alexander A. Polyanskii](https://polyanskii.com/){target="_blank" rel="noopener"}
 
 ## Teaching and Mentoring
 
-- **Directed Reading Group Organizer**, Rice University, Spring 2026  
-  Organized a reading group for undergraduates on applications of linear algebra, with an emphasis geometry, algorithms, and optimization. See [Teaching](../../contents/teaching/teaching.qmd) for readings and details.
+- **Teaching Assistant — MATH 221: Honors Calculus III**  
+  *Rice University · Fall 2026*  
+  Hold office hours, lead recitation sessions, and run weekly proof-writing tutorials for small groups of students.
 
-- **Mathematics Instructor**, Tapia Camp at Rice University, Summer 2025  
-  Instructor for *The Techniques of a Pro Mathematician* for high-school students.
+- **Directed Reading Program Organizer — Applications of Linear Algebra**  
+  *Rice University · Spring 2026*  
+  Organized a reading group for undergraduates emphasizing applications of linear algebra to geometry, algorithms, and optimization. See [Teaching](../teaching/teaching.qmd) for readings and details.
 
-- **Teaching Assistant**, Rice University, Spring 2025  
-  CMOR 360: *Introduction to Optimization and Operations Research*.
+- **Mathematics Instructor — Techniques of a Pro Mathematician**  
+  *Tapia Camps, Rice University · Summer 2025*  
+  Taught a week-long course for high-school students on mathematical problem solving and proof strategies.
 
-- **Olympiad Mathematics Coach**, Lyceum “The Second School,” 2020–2021  
-  Organized a curriculum in advanced olympiad mathematics for 8th-grade students.
+- **Teaching Assistant — CMOR 360: Introduction to Optimization and Operations Research**  
+  *Rice University · Spring 2025*  
+  Led recitation sessions and office hours, created and graded assignments, and assisted students with course material.
+
+- **Competitive Mathematics Coach**  
+  *Lyceum “The Second School” · September 2021–May 2022*  
+  Led two weekly two-hour classes for students preparing for national and regional mathematics competitions.
 
 ## Selected Awards
 
-- **All-Russian National Olympiad in Mathematics**, Silver Medal, 2019
-- **Moscow Mathematical Conference of High School Students**, Best Paper Award, 2020
-- **Higher School of Economics Mathematical Olympiad**, Gold Medals, 2018 and 2019
-- **Moscow Mathematical Olympiad**, Silver Medals, 2018 and 2019
+- **Silver Medal — All-Russian National Olympiad in Mathematics**  
+  *2019*
+
+- **Best Paper Award — Moscow Mathematical Conference of High School Students**  
+  *2020*
+
+- **Gold Medals — Higher School of Economics Mathematical Olympiad**  
+  *2018 and 2019*
+
+- **Silver Medals — Moscow Mathematical Olympiad**  
+  *2018 and 2019*
 
 ## Conferences and Programs
 
-- **International Computational Geometry Week (CG Week 2026)**, New Brunswick, NJ, 2026  
+- **Attendee — 42nd International Symposium on Computational Geometry (SoCG 2026)**  
+  *New Brunswick, New Jersey · June 2026*  
   Attended talks and workshops in computational and discrete geometry.
 
-- **SIAM TX/LA Conference**, Baylor University, TX, 2024  
-  Presented the poster *Exploring Local Solution Manifolds of Nonlinear Least Squares Problems*.
+- **Poster Presenter — SIAM TX/LA 2024 Section Annual Meeting**  
+  *Baylor University · 2024*  
+  Presented *Exploring Local Solution Manifolds of Nonlinear Least Squares Problems*.
 
-- **International Conference on the Geometry and Topology of 3-Manifolds**, Sochi, Russia, 2022
-  Attended talks and workshops in geometry and topology. 
+- **Attendee — International Conference on the Geometry and Topology of 3-Manifolds**  
+  *Sochi, Russia · 2022*  
+  Attended talks and workshops in geometry and topology.
 
-- **Workshop on the Contemporary Problems of Applied Combinatorics**, Sochi, Russia, 2021  
+- **Speaker — Workshop on the Contemporary Problems of Applied Combinatorics**  
+  *Sochi, Russia · 2021*  
   Gave a talk on modeling an epidemic on a random graph.
 
-## Academic service
+## Academic Service
 
-- **Graduate Student Association Representative**, Department of Mathematics, Rice University, 2025–2026  
-  Represented the Mathematics Department in Rice University's Graduate Student Association.
+- **Graduate Student Association Representative — Department of Mathematics**  
+  *Rice University · 2025–2026*  
+  Represented the department in Rice University’s Graduate Student Association.
 
 ## Skills
 
-**Programming:** Python, C++, R, MATLAB, Wolfram Mathematica, Lean  
-**Tools:** LaTeX, Markdown, Gurobi  
-**Languages:** Russian (mother tongue), English, Spanish (novice)
+**Programming:** Python, C++, R, MATLAB, Wolfram Mathematica, Lean
+**Tools:** LaTeX, Markdown, Gurobi Optimization  
+**Languages:** Russian (native), English (proficient), Spanish (beginner)

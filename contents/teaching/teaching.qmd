@@ -3,29 +3,29 @@ title: "Teaching"
 toc: false
 ---
 
-I enjoy teaching mathematics through extensive problem solving and visual intuition. My teaching experience includes coaching students in preparation for national mathematics competitions in Russia, and serving as a teaching assistant for an undergraduate optimization course.
-
-## Reading Groups
-
-- **Applications of Linear Algebra**  
-  *Directed Reading Group (DRP 26) --- Rice University, Spring 2026*  
-  Organized a directed reading group on applications of linear algebra, with an emphasis on geometry, algorithms, and optimization. The group was centered around selected readings from:
-  - J. Matoušek, B. Gärtner *"Understanding and Using Linear Programming"*
-  - J. Matoušek *"Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra"*,
-
-  along with short papers on the role of determinants in linear algebra.   
-  [Schedule and readings](https://docs.google.com/document/d/1J_3LoaARyf10piFmOvUceF6997kdvSCfeQN4c0UNBRU/edit?usp=sharing){target="_blank" rel="noopener"}
+My teaching and mentoring experience includes undergraduate courses in mathematics and optimization, directed reading groups, and coaching high-school students in preparation for national mathematics competitions in Russia.
 
 ## Teaching and Mentoring Experience
 
-- **Tapia Camps at Rice University**  
-  *Mathematics Instructor --- Summer 2025*  
-  Taught [Techniques of a Pro Mathematician](https://tapiacenter.rice.edu/techniques-pro-mathematician){target="_blank" rel="noopener"}, a week-long course for high-school students on mathematical problem solving, proof strategies, and the core principles to learn and do mathematics more efficiently and effectively.
+- **Teaching Assistant --- MATH 221: Honors Calculus III**  
+  *Rice University · Fall 2026*  
+  Hold office hours, lead recitation sessions, and run weekly proof-writing tutorials for groups of 3-4 students.
 
-- **CMOR 360: Introduction to Optimization and Operations Research**  
-  *Teaching Assistant, Rice University — Spring 2025*  
-  Held recitation sessions and office hours, created and graded assignments, and helped students with course material in optimization and operations research.
+- **[Directed Reading Program](https://mathweb.rice.edu/directed-reading-program) Organizer --- Applications of Linear Algebra**  
+  *Rice University · Spring 2026*  
+  Organized a directed reading group on applications of linear algebra, with an emphasis on geometry, algorithms, and optimization (see [schedule and topics](https://docs.google.com/document/d/1J_3LoaARyf10piFmOvUceF6997kdvSCfeQN4c0UNBRU/edit?usp=sharing){target="_blank" rel="noopener"}). Selected readings included:
+  - J. Matoušek and B. Gärtner, *Understanding and Using Linear Programming*
+  - J. Matoušek, *Thirty-three Miniatures: Mathematical and Algorithmic Applications of Linear Algebra*
+  - Sheldon Axler, [“Down with Determinants!”](https://www.axler.net/DwD.html){target="_blank" rel="noopener"}, *American Mathematical Monthly* 102 (1995), 139–154
 
-- **Lyceum “The Second School”**  
-  *Competitive Mathematics Coach — September 2021 to May 2022*  
-  Led two weekly two-hour classes for students preparing for the Russian National Mathematics Olympiad and other regional mathematics competitions.
+- **Mathematics Instructor --- Techniques of a Pro Mathematician**  
+  *Tapia Camps, Rice University · Summer 2025*  
+  Taught a week-long course for high-school students on mathematical problem solving and proof strategies.
+
+- **Teaching Assistant --- CMOR 360: Introduction to Optimization and Operations Research**  
+  *Rice University · Spring 2025*  
+  Held recitation sessions and office hours, created and graded assignments, and assisted students with course material.
+
+- **Competitive Mathematics Coach**  
+  *Lyceum “The Second School” · September 2021–May 2022*  
+  Led two weekly two-hour classes for students preparing for national and regional mathematics competitions.
