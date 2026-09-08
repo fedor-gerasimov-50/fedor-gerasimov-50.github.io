@@ -1,19 +1,29 @@
-# Quarto build output
-_site/
+# Quarto output and caches
+/_site/
 /.quarto/
+/_freeze/
+*.utf8.md
+*.knit.md
 
-# Backups / local archive
-archive/
+# Local archives
+/archive/
 
-# Quarto cache (if using Jupyter/Python)
+# Python and Jupyter
 __pycache__/
+*.py[cod]
 .ipynb_checkpoints/
+.venv/
+venv/
 
-# Editor/OS files
+# Node.js
+node_modules/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor and operating-system files
 .DS_Store
 *.swp
-
-# Node or Python virtual environments (if used)
-node_modules/
-.env/
-venv/
+*~
