@@ -25,11 +25,10 @@ Poster presented at [RTG NASC 2024](https://rtg-nasc.rice.edu/news-and-events/an
 
 ## Previous Research
 
-Before joining the Department of Mathematics at Rice University, I worked with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} in Rice’s [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/){target="_blank" rel="noopener"}. Our research focused on parameter identifiability and local solution manifolds of nonlinear least squares problems.
+Before joining the Department of Mathematics at Rice University, I worked with [Matthias Heinkenschloss](https://profiles.rice.edu/faculty/matthias-heinkenschloss){target="_blank" rel="noopener"} in Rice’s [Department of Computational Applied Mathematics and Operations Research](https://cmor.rice.edu/){target="_blank" rel="noopener"}. My research focused on parameter identifiability and local solution manifolds of nonlinear least squares problems.
 
 <!-- - **Parameter Identifiability and Local Solution Manifolds of Nonlinear Least Squares Problems**  
   This project explored the relationship between parameter identifiability and the local structure of solution sets for nonlinear least squares problems. -->
-
 
 
 ### Undergraduate and Earlier Projects
