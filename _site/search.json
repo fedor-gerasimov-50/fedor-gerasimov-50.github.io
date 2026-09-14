@@ -67,14 +67,14 @@
     "href": "contents/CV/CV.html#publications",
     "title": "CV",
     "section": "Publications",
-    "text": "Publications\n\nOn an Interesting Circle in a Triangle\nMoscow Mathematical Conference of High School Students · 2019\nWith Andrey S. Shutov · Best Paper Award · Paper"
+    "text": "Publications\n\nOn an Interesting Circle in a Triangle, with Andrey S. Shutov\nMoscow Mathematical Conference of High School Students · 2019\nBest Paper Award · Paper"
   },
   {
     "objectID": "contents/CV/CV.html#research-experience",
     "href": "contents/CV/CV.html#research-experience",
     "title": "CV",
     "section": "Research Experience",
-    "text": "Research Experience\n\nGraduate Research — Parameter Identifiability and Local Solution Manifolds\nRice University · 2023–2025\nAdvisor: Matthias Heinkenschloss\nBachelor’s Thesis — Blocking Numbers of Convex Bodies\nMoscow Institute of Physics and Technology · 2022–2023\nAdvisor: Alexander A. Polyanskii\nUndergraduate Research — Max-Sum Matchings of Points\nMoscow Institute of Physics and Technology · Summer 2021\nAdvisor: Alexander A. Polyanskii\nResearch Practicum — Rigidity of Laman Graphs and the Bellows Conjecture\nMoscow Institute of Physics and Technology · 2020–2021\nAdvisor: Alexander A. Polyanskii"
+    "text": "Research Experience\n\nGraduate Research — Parameter Identifiability in Rank-Deficient Least Squares\nRice University · 2023–2025\nAdvisor: Matthias Heinkenschloss\nBachelor’s Thesis — Blocking Numbers of Convex Bodies\nMoscow Institute of Physics and Technology · 2022–2023\nAdvisor: Alexander A. Polyanskii\nUndergraduate Research — Max-Sum Matchings of Points\nMoscow Institute of Physics and Technology · Summer 2021\nAdvisor: Alexander A. Polyanskii\nResearch Practicum — Rigidity of Laman Graphs and the Bellows Conjecture\nMoscow Institute of Physics and Technology · 2020–2021\nAdvisor: Alexander A. Polyanskii"
   },
   {
     "objectID": "contents/CV/CV.html#teaching-and-mentoring",
@@ -95,7 +95,7 @@
     "href": "contents/CV/CV.html#conferences-and-programs",
     "title": "CV",
     "section": "Conferences and Programs",
-    "text": "Conferences and Programs\n\nAttendee — 42nd International Symposium on Computational Geometry (SoCG 2026)\nNew Brunswick, New Jersey · June 2026\nAttended talks and workshops in computational and discrete geometry.\nPoster Presenter — SIAM TX/LA 2024 Section Annual Meeting\nBaylor University · 2024\nPresented Exploring Local Solution Manifolds of Nonlinear Least Squares Problems.\nAttendee — International Conference on the Geometry and Topology of 3-Manifolds\nSochi, Russia · 2022\nAttended talks and workshops in geometry and topology.\nSpeaker — Workshop on the Contemporary Problems of Applied Combinatorics\nSochi, Russia · 2021\nGave a talk on modeling an epidemic on a random graph."
+    "text": "Conferences and Programs\n\nAttendee — 42nd International Symposium on Computational Geometry (SoCG 2026)\nNew Brunswick, New Jersey · June 2026\nAttended talks and workshops in computational and discrete geometry.\nPoster Presenter — SIAM TX/LA 2024 Section Annual Meeting\nBaylor University · 2024\nPresented Exploring Local Solution Manifolds of Nonlinear Least Squares Problems. []\nAttendee — International Conference on the Geometry and Topology of 3-Manifolds\nSochi, Russia · 2022\nAttended talks and workshops in geometry and topology.\nSpeaker — Workshop on the Contemporary Problems of Applied Combinatorics\nSochi, Russia · 2021\nGave a talk on modeling an epidemic on a random graph."
   },
   {
     "objectID": "contents/CV/CV.html#academic-service",
@@ -109,7 +109,7 @@
     "href": "contents/CV/CV.html#skills",
     "title": "CV",
     "section": "Skills",
-    "text": "Skills\nProgramming: Python, C++, R, MATLAB, Wolfram Mathematica, Lean Tools: LaTeX, Markdown, Gurobi Optimization\nLanguages: Russian (native), English (proficient), Spanish (beginner)"
+    "text": "Skills\nProgramming: Python, C++, R, MATLAB, Wolfram Mathematica, Lean, Gurobi Optimization\nLanguages: Russian (native), English (proficient), Spanish (beginner)"
   },
   {
     "objectID": "contents/research/research.html",
