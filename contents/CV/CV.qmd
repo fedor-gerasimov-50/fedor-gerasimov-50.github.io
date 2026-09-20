@@ -74,17 +74,23 @@ Download my [full CV](../../files/CV/Fedor_Gerasimov_CV.pdf){target="_blank" rel
 
 ## Selected Awards
 
-- **Silver Medal — All-Russian National Olympiad in Mathematics**  
+- **Silver Medal — All-Russian National Olympiad in Mathematics** [(diploma)](https://drive.google.com/file/d/1LvJK0VGKnC_ux6rD-XLEEsxdXyPOeLdq/view?usp=sharing){target="_blank" rel="noopener"}  
   *2019*
 
-- **Best Paper Award — Moscow Mathematical Conference of High School Students**  
+- **Best Paper Award — Moscow Mathematical Conference of High School Students**  [(diploma)](https://drive.google.com/file/d/1ld9xRCfYd5S7aM39uUPdcRUi0xhA192t/view?usp=sharing){target="_blank" rel="noopener"}  
   *2020*
 
-- **Gold Medals — Higher School of Economics Mathematical Olympiad**  
+- **Gold Medals — Higher School of Economics Mathematical Olympiad** [(diplomas)](https://drive.google.com/drive/folders/19M8IaQ64-sKLL2UuOBX7yXjoRFdJ_4X2?usp=sharing){target="_blank" rel="noopener"}  
   *2018 and 2019*
 
-- **Silver Medals — Moscow Mathematical Olympiad**  
+- **Silver Medals — Moscow Mathematical Olympiad** [(diploma)](https://drive.google.com/file/d/17RKLd0PgoWd_XHYHLxtZOG1MO3flbp_h/view?usp=sharing){target="_blank" rel="noopener"}  
   *2018 and 2019*
+
+
+\award{Silver Medal}{All-Russian National Mathematics Olympiad (\smalllink{https://drive.google.com/file/d/1LvJK0VGKnC_ux6rD-XLEEsxdXyPOeLdq/view?usp=sharing}{diploma})}{2019}
+\award{Best Paper Award}{Moscow Math Conference of High School Students (\smalllink{https://drive.google.com/file/d/1ld9xRCfYd5S7aM39uUPdcRUi0xhA192t/view?usp=sharing}{diploma} and \smalllink{https://www.mccme.ru/circles/oim/mmks/works2019/shutgera2.pdf}{publication})}{2020}
+\award{Gold Medals}{Higher School of Economics Mathematics Olympiad (\smalllink{https://drive.google.com/drive/folders/19M8IaQ64-sKLL2UuOBX7yXjoRFdJ_4X2?usp=sharing}{diplomas})}{2018, 2019}
+\award{Silver Medals}{Moscow Mathematical Olympiad (\href{https://drive.google.com/file/d/17RKLd0PgoWd_XHYHLxtZOG1MO3flbp_h/view?usp=sharing}{diploma})}{2018, 2019}
 
 ## Conferences and Programs
 
@@ -106,9 +112,9 @@ Download my [full CV](../../files/CV/Fedor_Gerasimov_CV.pdf){target="_blank" rel
 
 ## Academic Service
 
-- **Graduate Student Association Representative — Department of Mathematics**  
+- **Graduate Student Association (GSA) Representative — Department of Mathematics**  
   *Rice University · 2025–2026*  
-  Represented the department in Rice University’s Graduate Student Association.
+  Represented my department in Rice University’s Graduate Student Association.
 
 ## Skills
 
